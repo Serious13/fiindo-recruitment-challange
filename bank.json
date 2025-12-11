@@ -1,0 +1,2709 @@
+[
+    {
+        "id": 3346,
+        "code": "NWG",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "John-Paul Thwaite",
+                        "dcf": 283.71804092467806,
+                        "zip": "EH12 1HQ",
+                        "beta": 0.99,
+                        "city": "Edinburgh",
+                        "isin": "GB00BM8PJY71",
+                        "image": "https://images.financialmodelingprep.com/symbol/NWG.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "44 13 1626 3263",
+                        "price": 511.0,
+                        "range": "325.7-565.6",
+                        "isFund": false,
+                        "mktCap": 41252212400.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "NWG.L",
+                        "volAvg": 23905010.0,
+                        "address": "Gogarburn",
+                        "changes": -6.0,
+                        "country": "GB",
+                        "dcfDiff": 235.48196,
+                        "ipoDate": "1988-07-01",
+                        "lastDiv": 25.0,
+                        "website": "https://www.natwestgroup.com",
+                        "currency": "GBp",
+                        "originalCurrency": "GBp",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "NatWest Group plc",
+                        "description": "NatWest Group plc, together with its subsidiaries, provides banking and financial products and services to personal, commercial, corporate, and institutional customers in the United Kingdom and internationally. It operates through Retail Banking, Commercial Banking, Private Banking, RBS International, and NatWest Markets segments. The Retail Banking segment offers a range of banking products and related financial services, such as current accounts, mortgages, personal unsecured lending, and personal deposits, as well as mobile and online banking services. The Commercial Banking segment offers banking and financing solutions to start-up, SME, commercial, corporate, and institutional customers. The Private Banking segment provides private banking and wealth management products for high-net-worth individuals and their business interests. The RBS International segment offers banking various products and services to institutional customers. It also operates in wholesale branches and fund depositary service businesses. The NatWest Markets segment provides services to corporate and institutional customers for the management of financial risks for achieving short-term and long-term sustainable financial goals. NatWest Group plc operates approximately 800 branches and 16,000 physical points of presence. The company was formerly known as The Royal Bank of Scotland Group plc and changed its name to NatWest Group plc in July 2020. NatWest Group plc was founded in 1727 and is headquartered in Edinburgh, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 59400.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3344,
+        "code": "BNC",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hector Blas Grisi Checa",
+                        "dcf": 356.60756057529045,
+                        "zip": "28660",
+                        "beta": 1.297,
+                        "city": "Madrid",
+                        "isin": "ES0113900J37",
+                        "image": "https://images.financialmodelingprep.com/symbol/BNC.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "34 902 11 22 11",
+                        "price": 707.0,
+                        "range": "351-721",
+                        "isFund": false,
+                        "mktCap": 105129277725.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BNC.L",
+                        "volAvg": 2676522.0,
+                        "address": "Santander Group City",
+                        "changes": 5.0,
+                        "country": "ES",
+                        "dcfDiff": 292.39244,
+                        "ipoDate": "2003-10-17",
+                        "lastDiv": 14.35171,
+                        "website": "https://www.santander.com",
+                        "currency": "GBp",
+                        "originalCurrency": "GBp",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Santander, S.A.",
+                        "description": "Banco Santander, S.A. provides various retail and commercial banking products and services to individuals, small and medium-sized enterprises, and large companies worldwide. It offers demand and time deposits, and current and savings accounts; mortgages, consumer finance, syndicated corporate loans, structured financing, cash management, export and agency finance, trade and working capital solutions, and corporate finance; and insurance products. The company also provides cash, asset, and wealth management; and private banking services. In addition, it is involved in the corporate banking; treasury, risk hedging, foreign trade, confirming, custody, and investment banking activities. The company operates through a network of 9,879 branches. The company was formerly known as Banco Santander Central Hispano S.A. and changed its name to Banco Santander, S.A. in June 2007. Banco Santander, S.A. was founded in 1856 and is headquartered in Madrid, Spain.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 206736.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3348,
+        "code": "JPM",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "James Dimon",
+                        "dcf": 224.00637785538666,
+                        "zip": "10179",
+                        "beta": 1.107,
+                        "city": "New York City",
+                        "isin": "US46625H1005",
+                        "image": "https://images.financialmodelingprep.com/symbol/JPM.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "212 270 6000",
+                        "price": 301.42,
+                        "range": "200.61-302.95",
+                        "isFund": false,
+                        "mktCap": 828829645000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "JPM",
+                        "volAvg": 8318804.0,
+                        "address": "383 Madison Avenue",
+                        "changes": 0.35,
+                        "country": "US",
+                        "dcfDiff": 77.41362,
+                        "ipoDate": "1980-03-17",
+                        "lastDiv": 5.3,
+                        "website": "https://www.jpmorganchase.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "JPMorgan Chase & Co.",
+                        "description": "JPMorgan Chase & Co. operates as a financial services company worldwide. It operates through four segments: Consumer & Community Banking (CCB), Corporate & Investment Bank (CIB), Commercial Banking (CB), and Asset & Wealth Management (AWM). The CCB segment offers s deposit, investment and lending products, payments, and services to consumers; lending, deposit, and cash management and payment solutions to small businesses; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit card, auto loan, and leasing services. The CIB segment provides investment banking products and services, including corporate strategy and structure advisory, and equity and debt markets capital-raising services, as well as loan origination and syndication; payments and cross-border financing; and cash and derivative instruments, risk management solutions, prime brokerage, and research. This segment also offers securities services, including custody, fund accounting and administration, and securities lending products for asset managers, insurance companies, and public and private investment funds. The CB segment provides financial solutions, including lending, payments, investment banking, and asset management to small business, large and midsized companies, local governments, and nonprofit clients; and commercial real estate banking services to investors, developers, and owners of multifamily, office, retail, industrial, and affordable housing properties. The AWM segment offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; and retirement products and services, brokerage, custody, trusts and estates, loans, mortgages, deposits, and investment management products. The company also provides ATM, online and mobile, and telephone banking services. JPMorgan Chase & Co. was founded in 1799 and is headquartered in New York, New York.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 318477.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3343,
+        "code": "HSBA",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Georges Bahjat Elhedery",
+                        "dcf": 1751.6537367889482,
+                        "zip": "E14 5HQ",
+                        "beta": 0.501,
+                        "city": "London",
+                        "isin": "GB0005405286",
+                        "image": "https://images.financialmodelingprep.com/symbol/HSBA.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "44 20 7991 8888",
+                        "price": 953.77,
+                        "range": "645.5-978.79",
+                        "isFund": false,
+                        "mktCap": 165546812670.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "HSBA.L",
+                        "volAvg": 19894832.6,
+                        "address": "8 Canada Square",
+                        "changes": 0.17,
+                        "country": "GB",
+                        "dcfDiff": -809.65374,
+                        "ipoDate": "1988-07-05",
+                        "lastDiv": 50.49974,
+                        "website": "https://www.hsbc.com",
+                        "currency": "GBp",
+                        "originalCurrency": "GBp",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "HSBC Holdings plc",
+                        "description": "HSBC Holdings plc provides banking and financial services worldwide. The company operates through Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets segments. The Wealth and Personal Banking segment offers retail banking and wealth products, including current and savings accounts, mortgages and personal loans, credit and debit cards, and local and international payment services; and wealth management services comprising insurance and investment products, global asset management services, investment management, and private wealth solutions. This segment serves personal banking and high net worth individuals. The Commercial Banking segment provides credit and lending, treasury management, payment, cash management, commercial insurance, and investment services; commercial cards; international trade and receivables finance services; foreign exchange products; capital raising services on debt and equity markets; and advisory services. It serves small and medium sized enterprises, mid-market enterprises, and corporates. The Global Banking and Markets segment offers financing, advisory, and transaction services; and credit, rates, foreign exchange, equities, money markets, and securities services; and engages in principal investment activities. It serves government, corporate and institutional clients, and private investors. HSBC Holdings plc was founded in 1865 and is headquartered in London, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 211940.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3347,
+        "code": "STAN",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "William Thomas Winters CBE",
+                        "dcf": 1031.76298957785,
+                        "zip": "EC2V 5DD",
+                        "beta": 0.684,
+                        "city": "London",
+                        "isin": "GB0004082847",
+                        "image": "https://images.financialmodelingprep.com/symbol/STAN.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "44 20 7885 8888",
+                        "price": 1377.0,
+                        "range": "742.6-1433",
+                        "isFund": false,
+                        "mktCap": 31762857233.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "STAN.L",
+                        "volAvg": 5614578.0,
+                        "address": "1 Basinghall Avenue",
+                        "changes": -9.0,
+                        "country": "GB",
+                        "dcfDiff": 131.73701,
+                        "ipoDate": "1988-07-01",
+                        "lastDiv": 30.77905,
+                        "website": "https://www.sc.com",
+                        "currency": "GBp",
+                        "originalCurrency": "GBp",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Standard Chartered PLC",
+                        "description": "Standard Chartered PLC, together with its subsidiaries, provides various banking products and services primarily in Asia, Africa, Europe, the Americas, and the Middle East. The company operates through two segments: Corporate, Commercial and Institutional Banking; and Consumer, Private and Business Banking. It offers retail products, such as deposits, savings, mortgages, credit cards, and personal loans; wealth management products and services that include investments, portfolio management, insurance, and wealth advices; and transaction banking services, such as cash management, working capital, and trade financing products. The company also provides financial markets products and services that comprise project and transportation financing, debt capital markets and leveraged financing, financing and securities services, and sales and structuring services, as well as macro, commodities, and credit trading services. In addition, it offers digital banking solutions. The company serves financial institutions, governments, banks, investors, corporations, small businesses, and individuals. It operates through approximately 776 branches. The company was founded in 1853 and is headquartered in London, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 80946.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3352,
+        "code": "NCB",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Brian Thomas Moynihan",
+                        "dcf": 6.103733940230048,
+                        "zip": "28255",
+                        "beta": 1.315,
+                        "city": "Charlotte",
+                        "isin": "US0605051046",
+                        "image": "https://images.financialmodelingprep.com/symbol/NCB.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "704 386 5681",
+                        "price": 43.515,
+                        "range": "28.495-47.21",
+                        "isFund": false,
+                        "mktCap": 322313429250.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "NCB.DE",
+                        "volAvg": 1323.0,
+                        "address": "Bank of America Corporate Center",
+                        "changes": 0.16,
+                        "country": "US",
+                        "dcfDiff": 37.58127,
+                        "ipoDate": "2007-12-28",
+                        "lastDiv": 0.97355,
+                        "website": "https://www.bankofamerica.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Bank of America Corporation",
+                        "description": "Bank of America Corporation, through its subsidiaries, provides banking and financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. Its Consumer Banking segment offers traditional and money market savings accounts, certificates of deposit and IRAs, noninterest-and interest-bearing checking accounts, and investment accounts and products; and credit and debit cards, residential mortgages, and home equity loans, as well as direct and indirect loans, such as automotive, recreational vehicle, and consumer personal loans. The company's Global Wealth & Investment Management segment offers investment management, brokerage, banking, and trust and retirement products and services; and wealth management solutions, as well as customized solutions, including specialty asset management services. Its Global Banking segment provides lending products and services, including commercial loans, leases, commitment facilities, trade finance, and commercial real estate and asset-based lending; treasury solutions, such as treasury management, foreign exchange, and short-term investing options and merchant services; working capital management solutions; and debt and equity underwriting and distribution, and merger-related and other advisory services. The company's Global Markets segment offers market-making, financing, securities clearing, settlement, and custody services, as well as risk management products using interest rate, equity, credit, currency and commodity derivatives, foreign exchange, fixed-income, and mortgage-related products. As of December 31, 2021, it served approximately 67 million consumer and small business clients with approximately 4,200 retail financial centers; approximately 16,000 ATMs; and digital banking platforms with approximately 41 million active users. The company was founded in 1784 and is based in Charlotte, North Carolina.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 213000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 3350,
+        "code": "SAN",
+        "exchange": "WA",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hector Blas Grisi Checa",
+                        "dcf": -2.440801968349389,
+                        "zip": "28660",
+                        "beta": 1.297,
+                        "city": "Madrid",
+                        "isin": "ES0113900J37",
+                        "image": "https://images.financialmodelingprep.com/symbol/SAN.WA.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "34 902 11 22 11",
+                        "price": 34.85,
+                        "range": "18.002-35.6",
+                        "isFund": false,
+                        "mktCap": 518211503354.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "SAN.WA",
+                        "volAvg": 1635.0,
+                        "address": "Santander Group City",
+                        "changes": 0.0,
+                        "country": "ES",
+                        "dcfDiff": 37.2908,
+                        "ipoDate": "2014-12-01",
+                        "lastDiv": 0.94,
+                        "website": "https://www.santander.com",
+                        "currency": "PLN",
+                        "originalCurrency": "PLN",
+                        "exchange": "Warsaw Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Santander, S.A.",
+                        "description": "Banco Santander, S.A. provides various retail and commercial banking products and services to individuals, small and medium-sized enterprises, and large companies worldwide. It offers demand and time deposits, and current and savings accounts; mortgages, consumer finance, syndicated corporate loans, structured financing, cash management, export and agency finance, trade and working capital solutions, and corporate finance; and insurance products. The company also provides cash, asset, and wealth management; and private banking services. In addition, it is involved in the corporate banking; treasury, risk hedging, foreign trade, confirming, custody, and investment banking activities. The company operates through a network of 9,879 branches. The company was formerly known as Banco Santander Central Hispano S.A. and changed its name to Banco Santander, S.A. in June 2007. Banco Santander, S.A. was founded in 1856 and is headquartered in Madrid, Spain.",
+                        "defaultImage": false,
+                        "exchangeShortName": "WSE",
+                        "fullTimeEmployees": 206736.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3353,
+        "code": "0Q1F",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "James Dimon",
+                        "dcf": 367.39634767162573,
+                        "zip": "10179",
+                        "beta": 1.107,
+                        "city": "New York City",
+                        "isin": null,
+                        "image": "https://images.financialmodelingprep.com/symbol/0Q1F.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "212 270 6000",
+                        "price": 300.3201,
+                        "range": "179.19-302",
+                        "isFund": false,
+                        "mktCap": 834616562683.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "0Q1F.L",
+                        "volAvg": 28417.0,
+                        "address": "383 Madison Avenue",
+                        "changes": -0.6198,
+                        "country": "US",
+                        "dcfDiff": -65.39635,
+                        "ipoDate": "2000-01-03",
+                        "lastDiv": 5.3,
+                        "website": "https://www.jpmorganchase.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "JPMorgan Chase & Co.",
+                        "description": "JPMorgan Chase & Co. operates as a financial services company worldwide. It operates through four segments: Consumer & Community Banking (CCB), Corporate & Investment Bank (CIB), Commercial Banking (CB), and Asset & Wealth Management (AWM). The CCB segment offers s deposit, investment and lending products, payments, and services to consumers; lending, deposit, and cash management and payment solutions to small businesses; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit card, auto loan, and leasing services. The CIB segment provides investment banking products and services, including corporate strategy and structure advisory, and equity and debt markets capital-raising services, as well as loan origination and syndication; payments and cross-border financing; and cash and derivative instruments, risk management solutions, prime brokerage, and research. This segment also offers securities services, including custody, fund accounting and administration, and securities lending products for asset managers, insurance companies, and public and private investment funds. The CB segment provides financial solutions, including lending, payments, investment banking, and asset management to small business, large and midsized companies, local governments, and nonprofit clients; and commercial real estate banking services to investors, developers, and owners of multifamily, office, retail, industrial, and affordable housing properties. The AWM segment offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; and retirement products and services, brokerage, custody, trusts and estates, loans, mortgages, deposits, and investment management products. The company also provides ATM, online and mobile, and telephone banking services. JPMorgan Chase & Co. was founded in 1799 and is headquartered in New York, New York.",
+                        "defaultImage": true,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 318477.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3356,
+        "code": "SHB-A",
+        "exchange": "ST",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Michael Green",
+                        "dcf": -105.61628313074553,
+                        "zip": "106 70",
+                        "beta": 0.561,
+                        "city": "Stockholm",
+                        "isin": "SE0007100599",
+                        "image": "https://images.financialmodelingprep.com/symbol/SHB-A.ST.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "46 87 01 10 00",
+                        "price": 121.55,
+                        "range": "95.44-136.9",
+                        "isFund": false,
+                        "mktCap": 236388009000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "SHB-A.ST",
+                        "volAvg": 3897581.0,
+                        "address": "Kungstr\u00e4dg\u00e5rdsgatan 2",
+                        "changes": -0.1,
+                        "country": "SE",
+                        "dcfDiff": 226.01628,
+                        "ipoDate": "2000-01-03",
+                        "lastDiv": 15.0,
+                        "website": "https://www.handelsbanken.se",
+                        "currency": "SEK",
+                        "originalCurrency": "SEK",
+                        "exchange": "Stockholm Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Svenska Handelsbanken AB (publ)",
+                        "description": "Svenska Handelsbanken AB (publ) provides various banking products and services for private and corporate customers primarily in Sweden, the United Kingdom, Norway, the Netherlands, the United States, Luxembourg, China, Germany, France, and Poland. The company offers savings, transactions, business, currency, and investment accounts, as well as accounts for cash pool, and forestry and agriculture; mortgage and committed loans, and private loans; mutual funds; pension products; credit and debit cards; and payment and reconciliation services. It also provides financing for investments, such as equipment, cars, computers, and other inventories, as well as vehicle and real estate financing services; green loans and advisor services; investment and other financing services; medical care, group and health, and travel insurance products; forestry and farming banking products; and online and mobile banking services. In addition, the company offers transaction, trade finance, cash management, risk management, and foreign exchange services, as well as various banking services for children and young people. It operates approximately 214 branches in Sweden, 196 in the Great Britain, 41 in Norway, 42 in Denmark, 27 in Finland, and 28 in the Netherlands. Svenska Handelsbanken AB (publ) was incorporated in 1871 and is headquartered in Stockholm, Sweden.",
+                        "defaultImage": false,
+                        "exchangeShortName": "STO",
+                        "fullTimeEmployees": 11799.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3354,
+        "code": "ICK",
+        "exchange": "VI",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Lin Liao",
+                        "dcf": 1.7901495059541608,
+                        "zip": "100140",
+                        "beta": 0.314,
+                        "city": "Beijing",
+                        "isin": "CNE1000003G1",
+                        "image": "https://images.financialmodelingprep.com/symbol/ICK.VI.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "86 10 6610 6114",
+                        "price": 0.638,
+                        "range": "0.4755-0.7066",
+                        "isFund": false,
+                        "mktCap": 294230918685.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "ICK.VI",
+                        "volAvg": 46.0,
+                        "address": "55 Fuxingmennei Avenue",
+                        "changes": 0.009,
+                        "country": "CN",
+                        "dcfDiff": -1.11715,
+                        "ipoDate": "2018-09-14",
+                        "lastDiv": 0.03689808,
+                        "website": "https://www.icbc-ltd.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Vienna Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Industrial and Commercial Bank of China Limited",
+                        "description": "Industrial and Commercial Bank of China Limited, together with its subsidiaries, provides banking products and services in the People's Republic of China and internationally. It operates through Corporate Banking, Personal Banking, and Treasury Operations segments. The Corporate Banking segment offers financial products and services to corporations, government agencies, and financial institutions. Its products and services include corporate loans, trade financing, deposit taking activities, corporate wealth management services, custody activities, and various corporate intermediary services. The Personal Banking segment provides financial products and services to individual customers. This segment's products and services comprise personal loans and cards, deposits, and personal wealth management and intermediary services. The Treasury Operations segment is involved in the money market transactions, investment securities, and foreign exchange transactions businesses, as well as in the holding of derivative positions. It also offers e-banking services, investment banking, financial leasing, and insurance services. The company was founded in 1984 and is based in Beijing, the People's Republic of China.",
+                        "defaultImage": false,
+                        "exchangeShortName": "VIE",
+                        "fullTimeEmployees": 415159.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3359,
+        "code": "EK7",
+        "exchange": "VI",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Shu Gu",
+                        "dcf": 1.3296063653486876,
+                        "zip": "100005",
+                        "beta": 0.296,
+                        "city": "Beijing",
+                        "isin": "CNE100000Q43",
+                        "image": "https://images.financialmodelingprep.com/symbol/EK7.VI.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "86 10 8510 9619",
+                        "price": 0.589,
+                        "range": "0.394-0.634",
+                        "isFund": false,
+                        "mktCap": 296798848861.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "EK7.VI",
+                        "volAvg": 0.05952381,
+                        "address": "No. 69, Jianguomen Nei Avenue",
+                        "changes": 0.0184,
+                        "country": "CN",
+                        "dcfDiff": -0.98161,
+                        "ipoDate": "2018-09-14",
+                        "lastDiv": 0.05,
+                        "website": "https://www.abchina.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Vienna Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Agricultural Bank of China Limited",
+                        "description": "Agricultural Bank of China Limited provides corporate and retail banking products and services. The company operates through Corporate Banking, Personal Banking, and Treasury Operations segments. It offers demand, personal call, foreign currency time, foreign currency call, time or demand optional, foreign exchange demand, foreign exchange call, foreign exchange time, certificates of deposit, savings, agreed-term, and negotiated deposits; and loans comprise housing, consumer, business, fixed asset, working capital, real estate, and entrusted syndicated loans, as well as trade finances, guarantees and commitments, and loans with custody of export rebates accounts. The company also provides credit card, debit card, payment and settlement, private banking, cash management, investment banking, custody, financial market, and financial institution services, as well as trading and wealth management services; and personal fund collection and automatic transfer services. In addition, it offers agro-related personal and corporate banking products and services; personal and online, telephone, mobile, self-service, television, and SMS banking services; financial leasing services; fund management services; assets custodian services; debt-to-equity swap and related services; and life, health, and accident insurance, as well as reinsurance products. As of December 31, 2021, the company had 22,807 domestic branches, including three specialized institutions, 4 training institutes, 37 tier-1 branches, 402 tier-2 branches, 3,348 tier-1 sub-branches, 18,961 foundation-level branch outlets and 50 other establishments; and 13 overseas branches in Hong Kong, Singapore, Seoul, New York, Dubai International Financial Centre, Tokyo, Frankfurt, Sydney, Luxemburg, Dubai, London, Macao, and Hanoi; and four overseas representative offices in Vancouver, Taipei, Sao Paulo, and Dushanbe. Agricultural Bank of China Limited was founded in 1951 and is based in Beijing, the People's Republic of China.",
+                        "defaultImage": false,
+                        "exchangeShortName": "VIE",
+                        "fullTimeEmployees": 454716.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3349,
+        "code": "CMC",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "James Dimon",
+                        "dcf": 116.18696884342668,
+                        "zip": "10179",
+                        "beta": 1.107,
+                        "city": "New York City",
+                        "isin": "US46625H1005",
+                        "image": "https://images.financialmodelingprep.com/symbol/CMC.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "212 270 6000",
+                        "price": 258.35,
+                        "range": "178.92-269.85",
+                        "isFund": false,
+                        "mktCap": 710397912500.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "CMC.DE",
+                        "volAvg": 1519.0,
+                        "address": "383 Madison Avenue",
+                        "changes": 2.2,
+                        "country": "US",
+                        "dcfDiff": 141.81303,
+                        "ipoDate": "1998-11-27",
+                        "lastDiv": 4.83869,
+                        "website": "https://www.jpmorganchase.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "JPMorgan Chase & Co.",
+                        "description": "JPMorgan Chase & Co. operates as a financial services company worldwide. It operates through four segments: Consumer & Community Banking (CCB), Corporate & Investment Bank (CIB), Commercial Banking (CB), and Asset & Wealth Management (AWM). The CCB segment offers s deposit, investment and lending products, payments, and services to consumers; lending, deposit, and cash management and payment solutions to small businesses; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit card, auto loan, and leasing services. The CIB segment provides investment banking products and services, including corporate strategy and structure advisory, and equity and debt markets capital-raising services, as well as loan origination and syndication; payments and cross-border financing; and cash and derivative instruments, risk management solutions, prime brokerage, and research. This segment also offers securities services, including custody, fund accounting and administration, and securities lending products for asset managers, insurance companies, and public and private investment funds. The CB segment provides financial solutions, including lending, payments, investment banking, and asset management to small business, large and midsized companies, local governments, and nonprofit clients; and commercial real estate banking services to investors, developers, and owners of multifamily, office, retail, industrial, and affordable housing properties. The AWM segment offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; and retirement products and services, brokerage, custody, trusts and estates, loans, mortgages, deposits, and investment management products. The company also provides ATM, online and mobile, and telephone banking services. JPMorgan Chase & Co. was founded in 1799 and is headquartered in New York, New York.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 318477.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3351,
+        "code": "BAC",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Brian Thomas Moynihan",
+                        "dcf": 7.098139977802165,
+                        "zip": "28255",
+                        "beta": 1.315,
+                        "city": "Charlotte",
+                        "isin": "US0605051046",
+                        "image": "https://images.financialmodelingprep.com/symbol/BAC.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "704 386 5681",
+                        "price": 50.74,
+                        "range": "33.07-50.92",
+                        "isFund": false,
+                        "mktCap": 375828643000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BAC",
+                        "volAvg": 38418650.0,
+                        "address": "Bank of America Corporate Center",
+                        "changes": 0.25,
+                        "country": "US",
+                        "dcfDiff": 43.64186,
+                        "ipoDate": "1973-02-21",
+                        "lastDiv": 1.04,
+                        "website": "https://www.bankofamerica.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Bank of America Corporation",
+                        "description": "Bank of America Corporation, through its subsidiaries, provides banking and financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. Its Consumer Banking segment offers traditional and money market savings accounts, certificates of deposit and IRAs, noninterest-and interest-bearing checking accounts, and investment accounts and products; and credit and debit cards, residential mortgages, and home equity loans, as well as direct and indirect loans, such as automotive, recreational vehicle, and consumer personal loans. The company's Global Wealth & Investment Management segment offers investment management, brokerage, banking, and trust and retirement products and services; and wealth management solutions, as well as customized solutions, including specialty asset management services. Its Global Banking segment provides lending products and services, including commercial loans, leases, commitment facilities, trade finance, and commercial real estate and asset-based lending; treasury solutions, such as treasury management, foreign exchange, and short-term investing options and merchant services; working capital management solutions; and debt and equity underwriting and distribution, and merger-related and other advisory services. The company's Global Markets segment offers market-making, financing, securities clearing, settlement, and custody services, as well as risk management products using interest rate, equity, credit, currency and commodity derivatives, foreign exchange, fixed-income, and mortgage-related products. As of December 31, 2021, it served approximately 67 million consumer and small business clients with approximately 4,200 retail financial centers; approximately 16,000 ATMs; and digital banking platforms with approximately 41 million active users. The company was founded in 1784 and is based in Charlotte, North Carolina.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 213000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3355,
+        "code": "WFC",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Charles W. Scharf",
+                        "dcf": 46.97388720548885,
+                        "zip": "94104",
+                        "beta": 1.196,
+                        "city": "San Francisco",
+                        "isin": "US9497461015",
+                        "image": "https://images.financialmodelingprep.com/symbol/WFC.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "866 249 3302",
+                        "price": 82.18,
+                        "range": "50.22-84.83",
+                        "isFund": false,
+                        "mktCap": 263258699200.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "WFC",
+                        "volAvg": 16886916.0,
+                        "address": "420 Montgomery Street",
+                        "changes": 0.2,
+                        "country": "US",
+                        "dcfDiff": 35.20611,
+                        "ipoDate": "1972-06-01",
+                        "lastDiv": 1.8,
+                        "website": "https://www.wellsfargo.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Wells Fargo & Company",
+                        "description": "Wells Fargo & Company, a diversified financial services company, provides banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The Consumer Banking and Lending segment offers diversified financial products and services for consumers and small businesses. Its financial products and services include checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services. The Commercial Banking segment provides financial solutions to private, family owned, and certain public companies. Its products and services include banking and credit products across various industry sectors and municipalities, secured lending and lease products, and treasury management services. The Corporate and Investment Banking segment offers a suite of capital markets, banking, and financial products and services to corporate, commercial real estate, government, and institutional clients. Its products and services comprise corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity, and fixed income solutions, as well as sales, trading, and research capabilities services. The Wealth and Investment Management segment provides personalized wealth management, brokerage, financial planning, lending, private banking, and trust and fiduciary products and services to affluent, high-net worth, and ultra-high-net worth clients. It also operates through financial advisors. Wells Fargo & Company was founded in 1852 and is headquartered in San Francisco, California.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 215367.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3357,
+        "code": "NWT",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Charles W. Scharf",
+                        "dcf": 32.132735366187546,
+                        "zip": "94104",
+                        "beta": 1.196,
+                        "city": "San Francisco",
+                        "isin": "US9497461015",
+                        "image": "https://images.financialmodelingprep.com/symbol/NWT.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "866 249 3302",
+                        "price": 70.51,
+                        "range": "46.74-78.66",
+                        "isFund": false,
+                        "mktCap": 225874554400.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "NWT.DE",
+                        "volAvg": 584.0,
+                        "address": "420 Montgomery Street",
+                        "changes": 0.07,
+                        "country": "US",
+                        "dcfDiff": 39.36726,
+                        "ipoDate": "2007-12-28",
+                        "lastDiv": 1.468,
+                        "website": "https://www.wellsfargo.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Wells Fargo & Company",
+                        "description": "Wells Fargo & Company, a diversified financial services company, provides banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The Consumer Banking and Lending segment offers diversified financial products and services for consumers and small businesses. Its financial products and services include checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services. The Commercial Banking segment provides financial solutions to private, family owned, and certain public companies. Its products and services include banking and credit products across various industry sectors and municipalities, secured lending and lease products, and treasury management services. The Corporate and Investment Banking segment offers a suite of capital markets, banking, and financial products and services to corporate, commercial real estate, government, and institutional clients. Its products and services comprise corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity, and fixed income solutions, as well as sales, trading, and research capabilities services. The Wealth and Investment Management segment provides personalized wealth management, brokerage, financial planning, lending, private banking, and trust and fiduciary products and services to affluent, high-net worth, and ultra-high-net worth clients. It also operates through financial advisors. Wells Fargo & Company was founded in 1852 and is headquartered in San Francisco, California.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 215367.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3362,
+        "code": "CNCB",
+        "exchange": "VI",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Yi Zhang",
+                        "dcf": 1.8979222764705483,
+                        "zip": "100033",
+                        "beta": 0.404,
+                        "city": "Beijing",
+                        "isin": "CNE1000002H1",
+                        "image": "https://images.financialmodelingprep.com/symbol/CNCB.VI.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "86 10 6621 5533",
+                        "price": 0.849,
+                        "range": "0.6135-0.9315",
+                        "isFund": false,
+                        "mktCap": 204114030772.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "CNCB.VI",
+                        "volAvg": 39.0,
+                        "address": "No. 25, Financial Street",
+                        "changes": 0.018,
+                        "country": "CN",
+                        "dcfDiff": -1.07942,
+                        "ipoDate": "2021-12-01",
+                        "lastDiv": 0.05194071,
+                        "website": "https://www.ccb.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Vienna Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "China Construction Bank Corporation",
+                        "description": "China Construction Bank Corporation provides various banking and related financial services to individuals and corporate customers in the People's Republic of China and internationally. It operates through Corporate Banking, Personal Banking, Treasury Business, and Others segments. The company accepts various deposits, such as foreign currency, all in one accounts, RMB, corporate term and notification, and corporate demand deposits, as well corporate deposits by agreement. Its loan products include personal business, car, and housing loans; and SME, traditional credit, commercial draft, buyer credit, and RMB credit line loans. The company also offers credit cards; physical gold for personal investment and personal gold accounts; foreign exchange services; certificate treasury and savings bonds, securities deposit accounts, and securities services, as well as bank-securities transfer and book-entry treasury bond over the counter services; and wealth management products. In addition, it provides collection, salaries payment, third-party collection and payment, insurance agency, and remittance services; international settlement and financing, and FI services; securities and fund settlement services; guarantee-based, consulting and advising, and factoring services; fund custody services; and e-banking services. Further, the company offers institutional services comprising services for government agencies, social security, banks cooperation, bank-securities cooperation, bank-insurance cooperation, and services for non-banking financial institutions. It operates 14,741 banking outlets. China Construction Bank Corporation was founded in 1954 and is headquartered in Beijing, the People's Republic of China.",
+                        "defaultImage": false,
+                        "exchangeShortName": "VIE",
+                        "fullTimeEmployees": 376847.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3360,
+        "code": "BAC",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Brian Thomas Moynihan",
+                        "dcf": 0.0,
+                        "zip": "28255",
+                        "beta": 1.3052912,
+                        "city": "Charlotte",
+                        "isin": "US0605051046",
+                        "image": "https://images.financialmodelingprep.com/symbol/BAC.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "704 386 5681",
+                        "price": 29.28,
+                        "range": null,
+                        "isFund": false,
+                        "mktCap": 271872365659.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BAC.SW",
+                        "volAvg": 0.0,
+                        "address": "Bank of America Corporate Center",
+                        "changes": 0.0,
+                        "country": "US",
+                        "dcfDiff": null,
+                        "ipoDate": "2014-11-03",
+                        "lastDiv": 0.89086,
+                        "website": "https://www.bankofamerica.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Bank of America Corporation",
+                        "description": "Bank of America Corporation, through its subsidiaries, provides banking and financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. Its Consumer Banking segment offers traditional and money market savings accounts, certificates of deposit and IRAs, noninterest-and interest-bearing checking accounts, and investment accounts and products; and credit and debit cards, residential mortgages, and home equity loans, as well as direct and indirect loans, such as automotive, recreational vehicle, and consumer personal loans. The company's Global Wealth & Investment Management segment offers investment management, brokerage, banking, and trust and retirement products and services; and wealth management solutions, as well as customized solutions, including specialty asset management services. Its Global Banking segment provides lending products and services, including commercial loans, leases, commitment facilities, trade finance, and commercial real estate and asset-based lending; treasury solutions, such as treasury management, foreign exchange, and short-term investing options and merchant services; working capital management solutions; and debt and equity underwriting and distribution, and merger-related and other advisory services. The company's Global Markets segment offers market-making, financing, securities clearing, settlement, and custody services, as well as risk management products using interest rate, equity, credit, currency and commodity derivatives, foreign exchange, fixed-income, and mortgage-related products. As of December 31, 2021, it served approximately 67 million consumer and small business clients with approximately 4,200 retail financial centers; approximately 16,000 ATMs; and digital banking platforms with approximately 41 million active users. The company was founded in 1784 and is based in Charlotte, North Carolina.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 212000.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3365,
+        "code": "WFC",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Charles W. Scharf",
+                        "dcf": 0.0,
+                        "zip": "94104",
+                        "beta": 1.171,
+                        "city": "San Francisco",
+                        "isin": "US9497461015",
+                        "image": "https://images.financialmodelingprep.com/symbol/WFC.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "866 249 3302",
+                        "price": 45.0,
+                        "range": "50.25-50.25",
+                        "isFund": false,
+                        "mktCap": 178180479855.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "WFC.SW",
+                        "volAvg": 0.0,
+                        "address": "420 Montgomery Street",
+                        "changes": 0.0,
+                        "country": "US",
+                        "dcfDiff": null,
+                        "ipoDate": "2014-11-03",
+                        "lastDiv": 1.24476,
+                        "website": "https://www.wellsfargo.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Wells Fargo & Company",
+                        "description": "Wells Fargo & Company, a diversified financial services company, provides banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The Consumer Banking and Lending segment offers diversified financial products and services for consumers and small businesses. Its financial products and services include checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services. The Commercial Banking segment provides financial solutions to private, family owned, and certain public companies. Its products and services include banking and credit products across various industry sectors and municipalities, secured lending and lease products, and treasury management services. The Corporate and Investment Banking segment offers a suite of capital markets, banking, and financial products and services to corporate, commercial real estate, government, and institutional clients. Its products and services comprise corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity, and fixed income solutions, as well as sales, trading, and research capabilities services. The Wealth and Investment Management segment provides personalized wealth management, brokerage, financial planning, lending, private banking, and trust and fiduciary products and services to affluent, high-net worth, and ultra-high-net worth clients. It also operates through financial advisors. Wells Fargo & Company was founded in 1852 and is headquartered in San Francisco, California.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 224824.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3364,
+        "code": "HBC1",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Georges Bahjat Elhedery",
+                        "dcf": 26.632198096886935,
+                        "zip": "E14 5HQ",
+                        "beta": 0.501,
+                        "city": "London",
+                        "isin": "GB0005405286",
+                        "image": "https://images.financialmodelingprep.com/symbol/HBC1.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "44 20 7991 8888",
+                        "price": 11.06,
+                        "range": "7.7-11.682",
+                        "isFund": false,
+                        "mktCap": 191969526000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "HBC1.DE",
+                        "volAvg": 240815.0,
+                        "address": "8 Canada Square",
+                        "changes": -0.06,
+                        "country": "GB",
+                        "dcfDiff": -15.5322,
+                        "ipoDate": "2003-12-01",
+                        "lastDiv": 0.58131,
+                        "website": "https://www.hsbc.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "HSBC Holdings plc",
+                        "description": "HSBC Holdings plc provides banking and financial services worldwide. The company operates through Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets segments. The Wealth and Personal Banking segment offers retail banking and wealth products, including current and savings accounts, mortgages and personal loans, credit and debit cards, and local and international payment services; and wealth management services comprising insurance and investment products, global asset management services, investment management, and private wealth solutions. This segment serves personal banking and high net worth individuals. The Commercial Banking segment provides credit and lending, treasury management, payment, cash management, commercial insurance, and investment services; commercial cards; international trade and receivables finance services; foreign exchange products; capital raising services on debt and equity markets; and advisory services. It serves small and medium sized enterprises, mid-market enterprises, and corporates. The Global Banking and Markets segment offers financing, advisory, and transaction services; and credit, rates, foreign exchange, equities, money markets, and securities services; and engages in principal investment activities. It serves government, corporate and institutional clients, and private investors. HSBC Holdings plc was founded in 1865 and is headquartered in London, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 211940.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3361,
+        "code": "HSBC",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Georges Bahjat Elhedery",
+                        "dcf": 87.78245715909617,
+                        "zip": "E14 5HQ",
+                        "beta": 0.501,
+                        "city": "London",
+                        "isin": "US4042804066",
+                        "image": "https://images.financialmodelingprep.com/symbol/HSBC.png",
+                        "isAdr": true,
+                        "isEtf": false,
+                        "phone": "44 20 7991 8888",
+                        "price": 64.47,
+                        "range": "42.38-66.05",
+                        "isFund": false,
+                        "mktCap": 223802447400.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "HSBC",
+                        "volAvg": 1421000.0,
+                        "address": "8 Canada Square",
+                        "changes": -0.35,
+                        "country": "GB",
+                        "dcfDiff": -41.10246,
+                        "ipoDate": "1999-07-16",
+                        "lastDiv": 3.28,
+                        "website": "https://www.hsbc.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "HSBC Holdings plc",
+                        "description": "HSBC Holdings plc provides banking and financial services worldwide. The company operates through Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets segments. The Wealth and Personal Banking segment offers retail banking and wealth products, including current and savings accounts, mortgages and personal loans, credit and debit cards, and local and international payment services; and wealth management services comprising insurance and investment products, global asset management services, investment management, and private wealth solutions. This segment serves personal banking and high net worth individuals. The Commercial Banking segment provides credit and lending, treasury management, payment, cash management, commercial insurance, and investment services; commercial cards; international trade and receivables finance services; foreign exchange products; capital raising services on debt and equity markets; and advisory services. It serves small and medium sized enterprises, mid-market enterprises, and corporates. The Global Banking and Markets segment offers financing, advisory, and transaction services; and credit, rates, foreign exchange, equities, money markets, and securities services; and engages in principal investment activities. It serves government, corporate and institutional clients, and private investors. HSBC Holdings plc was founded in 1865 and is headquartered in London, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 211940.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3366,
+        "code": "RY",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "David I. McKay",
+                        "dcf": 42.43608493341263,
+                        "zip": "M5J 2J5",
+                        "beta": 1.031,
+                        "city": "Toronto",
+                        "isin": "CA7800871021",
+                        "image": "https://images.financialmodelingprep.com/symbol/RY.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "14169741012",
+                        "price": 145.36,
+                        "range": "106.1-147.64",
+                        "isFund": false,
+                        "mktCap": 204998300800.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "RY",
+                        "volAvg": 1095703.0,
+                        "address": "200 Bay Street",
+                        "changes": -0.49,
+                        "country": "CA",
+                        "dcfDiff": 85.17392,
+                        "ipoDate": "1995-10-16",
+                        "lastDiv": 4.45,
+                        "website": "https://www.rbc.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Royal Bank of Canada",
+                        "description": "Royal Bank of Canada operates as a diversified financial service company worldwide. The company's Personal & Commercial Banking segment offers checking and savings accounts, home equity financing, personal lending, private banking, indirect lending, including auto financing, mutual funds and self-directed brokerage accounts, guaranteed investment certificates, credit cards, and payment products and solutions; and lending, leasing, deposit, investment, foreign exchange, cash management, auto dealer financing, trade products, and services to small and medium-sized commercial businesses. This segment offers financial products and services through branches, automated teller machines, and mobile sales network. Its Wealth Management segment provides a suite of advice-based solutions and strategies to high net worth and ultra-high net worth individuals, and institutional clients. The company's Insurance segment offers life, health, home, auto, travel, wealth, annuities, and reinsurance advice and solutions; and business insurance services to individual, business, and group clients through its advice centers, RBC insurance stores, and mobile advisors; digital, mobile, and social platforms; independent brokers; and travel partners. Its Investor & Treasury Services segment provides asset servicing, custody, payments, and treasury services to financial and other investors; and fund and investment administration, shareholder, private capital, performance measurement and compliance monitoring, distribution, transaction banking, cash and liquidity management, foreign exchange, and global securities finance services. The company's Capital Markets segment offers corporate and investment banking, as well as equity and debt origination, distribution, advisory services, sale, and trading services for corporations, institutional investors, asset managers, private equity firms, and governments. The company was founded in 1864 and is headquartered in Toronto, Canada.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 94624.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3363,
+        "code": "BOCN",
+        "exchange": "VI",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Haijiao Ge",
+                        "dcf": 1.3139529548519087,
+                        "zip": "100818",
+                        "beta": 0.291,
+                        "city": "Beijing",
+                        "isin": "CNE1000001Z5",
+                        "image": "https://images.financialmodelingprep.com/symbol/BOCN.VI.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "86 10 6659 6688",
+                        "price": 0.4747,
+                        "range": "0.3795-0.5608",
+                        "isFund": false,
+                        "mktCap": 196130367928.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BOCN.VI",
+                        "volAvg": 435.0,
+                        "address": "No. 1 Fuxingmen Nei Dajie",
+                        "changes": -0.0014,
+                        "country": "CN",
+                        "dcfDiff": -0.87495,
+                        "ipoDate": "2021-12-01",
+                        "lastDiv": 0.06,
+                        "website": "https://www.boc.cn",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Vienna Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Bank of China Limited",
+                        "description": "Bank of China Limited, together with its subsidiaries, provides various banking and financial services. It operates through six segments: Corporate Banking, Personal Banking, Treasury Operations, Investment Banking, Insurance, and Other Operations. The Corporate Banking segment offers current accounts, deposits, overdrafts, loans, trade-related products and other credit facilities, foreign currency, derivatives, and wealth management products to corporate customers, government authorities, and financial institutions. The Personal Banking segment provides savings deposits, personal loans, credit and debit cards, payments and settlements, wealth management products, and funds and insurance agency services to retail customers. The Treasury Operations segment is involved in foreign exchange transactions, customer-based interest rate and foreign exchange derivative transactions, money market transactions, proprietary trading, and asset and liability management. The Investment Banking segment offers debt and equity underwriting, financial advisory, stock brokerage, investment research and asset management, and private equity investment services, as well as sells and trades in securities. The Insurance segment underwrites general and life insurance products; and provides insurance agency services. As of December 31, 2021, the company had 10,382 branches and outlets, which include 520 institutions in the Chinese mainland and 550 institutions in Hong Kong, Macao, Taiwan, and other countries. It is also involved in the aircraft leasing business. The company was founded in 1912 and is headquartered in Beijing, China.",
+                        "defaultImage": false,
+                        "exchangeShortName": "VIE",
+                        "fullTimeEmployees": 312757.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3369,
+        "code": "TRVC",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Jane Nind Fraser",
+                        "dcf": -59.40183925903277,
+                        "zip": "10013",
+                        "beta": 1.366,
+                        "city": "New York City",
+                        "isin": "US1729674242",
+                        "image": "https://images.financialmodelingprep.com/symbol/TRVC.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "212 559 1000",
+                        "price": 83.18,
+                        "range": "48.865-84.49",
+                        "isFund": false,
+                        "mktCap": 153126062000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "TRVC.DE",
+                        "volAvg": 764.0,
+                        "address": "388 Greenwich Street",
+                        "changes": 0.59,
+                        "country": "US",
+                        "dcfDiff": 134.97184,
+                        "ipoDate": "2007-12-28",
+                        "lastDiv": 2.05967,
+                        "website": "https://www.citigroup.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Citigroup Inc.",
+                        "description": "Citigroup Inc., a diversified financial services holding company, provides various financial products and services to consumers, corporations, governments, and institutions in North America, Latin America, Asia, Europe, the Middle East, and Africa. The company operates in two segments, Global Consumer Banking (GCB) and Institutional Clients Group (ICG). The GCB segment offers traditional banking services to retail customers through retail banking, Citi-branded cards, and Citi retail services. It also provides various banking, credit card, lending, and investment services through a network of local branches, offices, and electronic delivery systems. The ICG segment offers wholesale banking products and services, including fixed income and equity sales and trading, foreign exchange, prime brokerage, derivative, equity and fixed income research, corporate lending, investment banking and advisory, private banking, cash management, trade finance, and securities services to corporate, institutional, public sector, and high-net-worth clients. As of December 31, 2020, it operated 2,303 branches primarily in the United States, Mexico, and Asia. Citigroup Inc. was founded in 1812 and is headquartered in New York, New York.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 229000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 3367,
+        "code": "0QKU",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "David I. McKay",
+                        "dcf": 0.0,
+                        "zip": "M5J 2J5",
+                        "beta": 1.031,
+                        "city": "Toronto",
+                        "isin": "CA7800871021",
+                        "image": "https://images.financialmodelingprep.com/symbol/0QKU.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "14169741012",
+                        "price": 145.4714,
+                        "range": "78.19-145.93",
+                        "isFund": false,
+                        "mktCap": 205155405992.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "0QKU.L",
+                        "volAvg": 517.0,
+                        "address": "200 Bay Street",
+                        "changes": -0.3986,
+                        "country": "CA",
+                        "dcfDiff": null,
+                        "ipoDate": "2014-05-08",
+                        "lastDiv": 3.65538,
+                        "website": "https://www.rbc.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Royal Bank of Canada",
+                        "description": "Royal Bank of Canada operates as a diversified financial service company worldwide. The company's Personal & Commercial Banking segment offers checking and savings accounts, home equity financing, personal lending, private banking, indirect lending, including auto financing, mutual funds and self-directed brokerage accounts, guaranteed investment certificates, credit cards, and payment products and solutions; and lending, leasing, deposit, investment, foreign exchange, cash management, auto dealer financing, trade products, and services to small and medium-sized commercial businesses. This segment offers financial products and services through branches, automated teller machines, and mobile sales network. Its Wealth Management segment provides a suite of advice-based solutions and strategies to high net worth and ultra-high net worth individuals, and institutional clients. The company's Insurance segment offers life, health, home, auto, travel, wealth, annuities, and reinsurance advice and solutions; and business insurance services to individual, business, and group clients through its advice centers, RBC insurance stores, and mobile advisors; digital, mobile, and social platforms; independent brokers; and travel partners. Its Investor & Treasury Services segment provides asset servicing, custody, payments, and treasury services to financial and other investors; and fund and investment administration, shareholder, private capital, performance measurement and compliance monitoring, distribution, transaction banking, cash and liquidity management, foreign exchange, and global securities finance services. The company's Capital Markets segment offers corporate and investment banking, as well as equity and debt origination, distribution, advisory services, sale, and trading services for corporations, institutional investors, asset managers, private equity firms, and governments. The company was founded in 1864 and is headquartered in Toronto, Canada.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 94624.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3368,
+        "code": "C",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Jane Nind Fraser",
+                        "dcf": 17.836212673116858,
+                        "zip": "10013",
+                        "beta": 1.366,
+                        "city": "New York City",
+                        "isin": "US1729674242",
+                        "image": "https://images.financialmodelingprep.com/symbol/C.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "212 559 1000",
+                        "price": 96.57,
+                        "range": "55.51-97.49",
+                        "isFund": false,
+                        "mktCap": 177775713000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "C",
+                        "volAvg": 14360141.0,
+                        "address": "388 Greenwich Street",
+                        "changes": -0.25,
+                        "country": "US",
+                        "dcfDiff": 51.94879,
+                        "ipoDate": "1977-01-03",
+                        "lastDiv": 2.28,
+                        "website": "https://www.citigroup.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Citigroup Inc.",
+                        "description": "Citigroup Inc., a diversified financial services holding company, provides various financial products and services to consumers, corporations, governments, and institutions in North America, Latin America, Asia, Europe, the Middle East, and Africa. The company operates in two segments, Global Consumer Banking (GCB) and Institutional Clients Group (ICG). The GCB segment offers traditional banking services to retail customers through retail banking, Citi-branded cards, and Citi retail services. It also provides various banking, credit card, lending, and investment services through a network of local branches, offices, and electronic delivery systems. The ICG segment offers wholesale banking products and services, including fixed income and equity sales and trading, foreign exchange, prime brokerage, derivative, equity and fixed income research, corporate lending, investment banking and advisory, private banking, cash management, trade finance, and securities services to corporate, institutional, public sector, and high-net-worth clients. As of December 31, 2020, it operated 2,303 branches primarily in the United States, Mexico, and Asia. Citigroup Inc. was founded in 1812 and is headquartered in New York, New York.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 229000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 3370,
+        "code": "MUFG",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hironori Kamezawa",
+                        "dcf": 8023.42,
+                        "zip": "100-8330",
+                        "beta": 0.244,
+                        "city": "Tokyo",
+                        "isin": "US6068221042",
+                        "image": "https://images.financialmodelingprep.com/symbol/MUFG.png",
+                        "isAdr": true,
+                        "isEtf": false,
+                        "phone": "81 3 3240 8111",
+                        "price": 15.29,
+                        "range": "9.85-16.16",
+                        "isFund": false,
+                        "mktCap": 177355499372.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "MUFG",
+                        "volAvg": 3697743.0,
+                        "address": "7-1, Marunouchi 2-chome",
+                        "changes": -0.105,
+                        "country": "JP",
+                        "dcfDiff": 8015.88,
+                        "ipoDate": "2001-04-02",
+                        "lastDiv": 0.13428,
+                        "website": "https://www.mufg.jp",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Mitsubishi UFJ Financial Group, Inc.",
+                        "description": "Mitsubishi UFJ Financial Group, Inc. operates as the bank holding company for MUFG Bank, Ltd. that provides various financial services in Japan, the United States, Europe, Asia/Oceania, and internationally. It operates through Digital Service Business Group; Retail & Commercial Banking Business Group; Japanese Corporate & Investment Banking Business Group; Asset Management & Investor Services Business Group; Global Corporate & Investment Banking Business Group; Global Commercial Banking Business Group; and Global Markets Business Group segments. The company offers commercial banking, trust banking, and securities products and services to retail, and small and medium-sized enterprise customers. It also provides M&As and real estate-related services; digital-based financial services; credit cards; and trust banking and securities products and services, as well as engages in the lending, fund settlement, and foreign exchange businesses. In addition, it offers corporate, investment, and transaction banking services for large corporate and financial institutions; asset management and administration services for corporations and pension funds; loans, deposits, fund transfers, and investments services for retail, small and medium-sized enterprise, as well as corporate customers; fixed income instruments, currencies, equities, and other investment products; originates and distributes of financial products; and provides treasury services. Mitsubishi UFJ Financial Group, Inc. was founded in 1880 and is headquartered in Tokyo, Japan.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 140000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 3372,
+        "code": "0R01",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Jane Nind Fraser",
+                        "dcf": 0.0,
+                        "zip": "10013",
+                        "beta": 1.366,
+                        "city": "New York City",
+                        "isin": "",
+                        "image": "https://images.financialmodelingprep.com/symbol/0R01.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "212 559 1000",
+                        "price": 52.25,
+                        "range": "39.962-53.2262",
+                        "isFund": false,
+                        "mktCap": 120791031785.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "0R01.L",
+                        "volAvg": 118695.0,
+                        "address": "388 Greenwich Street",
+                        "changes": 0.0,
+                        "country": "US",
+                        "dcfDiff": null,
+                        "ipoDate": "2006-02-20",
+                        "lastDiv": 2.28,
+                        "website": "https://www.citigroup.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Citigroup Inc.",
+                        "description": "Citigroup Inc., a diversified financial services holding company, provides various financial products and services to consumers, corporations, governments, and institutions in North America, Latin America, Asia, Europe, the Middle East, and Africa. The company operates in two segments, Global Consumer Banking (GCB) and Institutional Clients Group (ICG). The GCB segment offers traditional banking services to retail customers through retail banking, Citi-branded cards, and Citi retail services. It also provides various banking, credit card, lending, and investment services through a network of local branches, offices, and electronic delivery systems. The ICG segment offers wholesale banking products and services, including fixed income and equity sales and trading, foreign exchange, prime brokerage, derivative, equity and fixed income research, corporate lending, investment banking and advisory, private banking, cash management, trade finance, and securities services to corporate, institutional, public sector, and high-net-worth clients. As of December 31, 2020, it operated 2,303 branches primarily in the United States, Mexico, and Asia. Citigroup Inc. was founded in 1812 and is headquartered in New York, New York.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 229000.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3374,
+        "code": "TD",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Leovigildo Salom Jr.",
+                        "dcf": 58.75822995097514,
+                        "zip": "M5K 1A2",
+                        "beta": 1.024,
+                        "city": "Toronto",
+                        "isin": "CA8911605092",
+                        "image": "https://images.financialmodelingprep.com/symbol/TD.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "14169446367",
+                        "price": 75.14,
+                        "range": "51.25-78.95",
+                        "isFund": false,
+                        "mktCap": 131622738000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "TD",
+                        "volAvg": 1986685.0,
+                        "address": "PO Box 1",
+                        "changes": 2.29,
+                        "country": "CA",
+                        "dcfDiff": 11.33177,
+                        "ipoDate": "1996-08-30",
+                        "lastDiv": 2.9653,
+                        "website": "https://www.td.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "The Toronto-Dominion Bank",
+                        "description": "The Toronto-Dominion Bank, together with its subsidiaries, provides various financial products and services in Canada, the United States, and internationally. It operates through three segments: Canadian Retail, U.S. Retail, and Wholesale Banking. The company offers personal deposits, such as chequing, savings, and investment products; financing, investment, cash management, international trade, and day-to-day banking services to businesses; and financing options to customers at point of sale for automotive and recreational vehicle purchases. It also provides credit cards and payments; real estate secured lending, auto finance, and consumer lending services; point-of-sale payment solutions for large and small businesses; wealth and asset management products, and advice to retail and institutional clients through direct investing, advice-based, and asset management businesses; and property and casualty insurance, as well as life and health insurance products. The company also provides capital markets, and corporate and investment banking products and services, including underwriting and distribution of new debt and equity issues; advice on strategic acquisitions and divestitures; and trading, funding, and investment services to corporations, governments, and institutions. It offers its products and services under the TD Bank and America's Most Convenient Bank brand names. The company operates through a network of 1,061 branches and 3,381 automated teller machines (ATMs) in Canada, and 1,148 stores and 2,701 ATMs in the United States, as well as offers telephone, digital, and mobile banking services. It has a strategic alliance with Canada Post Corporation. The Toronto-Dominion Bank was founded in 1855 and is headquartered in Toronto, Canada.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 100424.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3375,
+        "code": "RY-PT",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "David I. McKay",
+                        "dcf": 88.55790496588517,
+                        "zip": "M5J 2J5",
+                        "beta": 0.779847,
+                        "city": "Toronto",
+                        "isin": null,
+                        "image": "https://images.financialmodelingprep.com/symbol/RY-PT.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "888-212-5533",
+                        "price": 25.008,
+                        "range": "24.9695-27.753",
+                        "isFund": false,
+                        "mktCap": 98818866872.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "RY-PT",
+                        "volAvg": 2069.0,
+                        "address": "200 Bay Street",
+                        "changes": -0.042,
+                        "country": "CA",
+                        "dcfDiff": 2.9721,
+                        "ipoDate": "2015-11-02",
+                        "lastDiv": 1.69,
+                        "website": "https://www.rbc.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Royal Bank of Canada",
+                        "description": "Royal Bank of Canada operates as a diversified financial service company worldwide. The company's Personal & Commercial Banking segment offers checking and savings accounts, home equity financing, personal lending, private banking, indirect lending, including auto financing, mutual funds and self-directed brokerage accounts, guaranteed investment certificates, credit cards, and payment products and solutions; and lending, leasing, deposit, investment, foreign exchange, cash management, auto dealer financing, trade products, and services to small and medium-sized commercial businesses. This segment offers financial products and services through branches, automated teller machines, and mobile sales network. Its Wealth Management segment provides a suite of advice-based solutions and strategies to high net worth and ultra-high net worth individuals, and institutional clients. The company's Insurance segment offers life, health, home, auto, travel, wealth, annuities, and reinsurance advice and solutions; and business insurance services to individual, business, and group clients through its advice centers, RBC insurance stores, and mobile advisors; digital, mobile, and social platforms; independent brokers; and travel partners. Its Investor & Treasury Services segment provides asset servicing, custody, payments, and treasury services to financial and other investors; and fund and investment administration, shareholder, private capital, performance measurement and compliance monitoring, distribution, transaction banking, cash and liquidity management, foreign exchange, and global securities finance services. The company's Capital Markets segment offers corporate and investment banking, as well as equity and debt origination, distribution, advisory services, sale, and trading services for corporations, institutional investors, asset managers, private equity firms, and governments. The company was founded in 1864 and is headquartered in Toronto, Canada.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 94398.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3380,
+        "code": "SAN",
+        "exchange": "MC",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hector Blas Grisi Checa",
+                        "dcf": 0.9921469331939661,
+                        "zip": "28660",
+                        "beta": 1.297,
+                        "city": "Madrid",
+                        "isin": "ES0113900J37",
+                        "image": "https://images.financialmodelingprep.com/symbol/SAN.MC.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "34 902 11 22 11",
+                        "price": 8.071,
+                        "range": "4.2045-8.338",
+                        "isFund": false,
+                        "mktCap": 120013918036.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "SAN.MC",
+                        "volAvg": 22105237.0,
+                        "address": "Santander Group City",
+                        "changes": -0.128,
+                        "country": "ES",
+                        "dcfDiff": 7.20885,
+                        "ipoDate": "2000-01-03",
+                        "lastDiv": 0.1701,
+                        "website": "https://www.santander.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Madrid Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Santander, S.A.",
+                        "description": "Banco Santander, S.A. provides various retail and commercial banking products and services to individuals, small and medium-sized enterprises, and large companies worldwide. It offers demand and time deposits, and current and savings accounts; mortgages, consumer finance, syndicated corporate loans, structured financing, cash management, export and agency finance, trade and working capital solutions, and corporate finance; and insurance products. The company also provides cash, asset, and wealth management; and private banking services. In addition, it is involved in the corporate banking; treasury, risk hedging, foreign trade, confirming, custody, and investment banking activities. The company operates through a network of 9,879 branches. The company was formerly known as Banco Santander Central Hispano S.A. and changed its name to Banco Santander, S.A. in June 2007. Banco Santander, S.A. was founded in 1856 and is headquartered in Madrid, Spain.",
+                        "defaultImage": false,
+                        "exchangeShortName": "BME",
+                        "fullTimeEmployees": 206736.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3381,
+        "code": "BSD2",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hector Blas Grisi Checa",
+                        "dcf": 23.77197460379928,
+                        "zip": "28660",
+                        "beta": 1.297,
+                        "city": "Madrid",
+                        "isin": "ES0113900J37",
+                        "image": "https://images.financialmodelingprep.com/symbol/BSD2.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "34 902 11 22 11",
+                        "price": 8.115,
+                        "range": "4.208-8.338",
+                        "isFund": false,
+                        "mktCap": 120668187940.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BSD2.DE",
+                        "volAvg": 66929.0,
+                        "address": "Santander Group City",
+                        "changes": -0.067,
+                        "country": "ES",
+                        "dcfDiff": -15.55797,
+                        "ipoDate": "1999-02-03",
+                        "lastDiv": 0.17659,
+                        "website": "https://www.santander.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Santander, S.A.",
+                        "description": "Banco Santander, S.A. provides various retail and commercial banking products and services to individuals, small and medium-sized enterprises, and large companies worldwide. It offers demand and time deposits, and current and savings accounts; mortgages, consumer finance, syndicated corporate loans, structured financing, cash management, export and agency finance, trade and working capital solutions, and corporate finance; and insurance products. The company also provides cash, asset, and wealth management; and private banking services. In addition, it is involved in the corporate banking; treasury, risk hedging, foreign trade, confirming, custody, and investment banking activities. The company operates through a network of 9,879 branches. The company was formerly known as Banco Santander Central Hispano S.A. and changed its name to Banco Santander, S.A. in June 2007. Banco Santander, S.A. was founded in 1856 and is headquartered in Madrid, Spain.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 206736.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3379,
+        "code": "CBA",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Matthew Comyn EMBA",
+                        "dcf": 143.44208986024194,
+                        "zip": "2000",
+                        "beta": 1.314831,
+                        "city": "Sydney",
+                        "isin": "AU000000CBA7",
+                        "image": "https://images.financialmodelingprep.com/symbol/CBA.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "61 2 9378 2000",
+                        "price": 53.18,
+                        "range": null,
+                        "isFund": false,
+                        "mktCap": 156709770664.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "CBA.SW",
+                        "volAvg": 0.0,
+                        "address": "Commonwealth Bank Place South",
+                        "changes": 0.0,
+                        "country": "AU",
+                        "dcfDiff": 11.67791,
+                        "ipoDate": "2014-11-03",
+                        "lastDiv": 2.73001,
+                        "website": "https://www.commbank.com.au",
+                        "currency": "AUD",
+                        "originalCurrency": "AUD",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Commonwealth Bank of Australia",
+                        "description": "Commonwealth Bank of Australia provides integrated financial services in Australia, New Zealand, and internationally. It operates through Retail Banking Services, Business Banking, Institutional Banking and Markets, and New Zealand segments. The company offers transaction, savings, and foreign currency accounts; term deposits; personal and business loans; overdrafts; equipment finance; credit cards; international payment and trade; and private banking services, as well as home and car loans. It also provides retail, premium, business, offshore, and institutional banking services; and funds management, superannuation, and share broking products and services, as well as car, health, life, income protection, and travel insurance. The company offers advisory services for high-net-worth individuals; equities trading and margin lending services; debt capital, transaction banking, working capital, and risk management services; and international and foreign exchange services. As of June 30, 2022, it operated 807 branches/service centres and 2,095 ATMs. The company was founded in 1911 and is based in Sydney, Australia.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 48930.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3376,
+        "code": "UBSG",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Sergio P. Ermotti",
+                        "dcf": 218.66208060109253,
+                        "zip": "8001",
+                        "beta": 0.918,
+                        "city": "Zurich",
+                        "isin": "CH0244767585",
+                        "image": "https://images.financialmodelingprep.com/symbol/UBSG.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "41 44 234 11 11",
+                        "price": 31.8,
+                        "range": "20.66-32.88",
+                        "isFund": false,
+                        "mktCap": 100779746015.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "UBSG.SW",
+                        "volAvg": 7003116.0,
+                        "address": "Bahnhofstrasse 45",
+                        "changes": -0.53,
+                        "country": "CH",
+                        "dcfDiff": -193.31208,
+                        "ipoDate": "1995-08-03",
+                        "lastDiv": 0.73562,
+                        "website": "https://www.ubs.com",
+                        "currency": "CHF",
+                        "originalCurrency": "CHF",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "UBS Group AG",
+                        "description": "UBS Group AG provides financial advice and solutions to private, institutional, and corporate clients worldwide. It operates through four divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management, and Investment Bank. The Global Wealth Management division offers investment advice and solutions, and lending solutions to ultra high net worth and high net worth clients. This segment also provides estate and wealth planning, investing, philanthropy, corporate and banking, and family advisory services, as well as mortgage, securities-based, and structured lending solutions. The Personal & Corporate Banking division provides personal banking products and services, such as deposits, cards, and online and mobile banking, as well as lending, investments, and retirement services; and corporate and institutional solutions, including equity and debt capital markets, syndicated and structured credit, private placements, leasing, traditional financing, trade and export finance, and global custody solutions, as well as transaction banking solutions for payment and cash management. The Asset Management division offers equities, fixed income, hedge funds, real estate and private markets, indexed and alternative beta strategies, asset allocation and currency investment strategies, customized multi-asset solutions, advisory and fiduciary services, and multi-manager hedge fund solutions and advisory services. The Investment Bank division advises clients on strategic business opportunities and helps them raise capital to fund their activities; enables its clients to buy, sell, and finance securities on capital markets and to manage their risks and liquidity; and offers clients differentiated content on major financial markets and securities. The company was formerly known as UBS AG and changed its name to UBS Group AG in December 2014. UBS Group AG was founded in 1862 and is based in Zurich, Switzerland.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 106789.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3373,
+        "code": "UBS",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Sergio P. Ermotti",
+                        "dcf": 301.7637217671545,
+                        "zip": "8001",
+                        "beta": 0.918,
+                        "city": "Zurich",
+                        "isin": "CH0244767585",
+                        "image": "https://images.financialmodelingprep.com/symbol/UBS.png",
+                        "isAdr": true,
+                        "isEtf": false,
+                        "phone": "41 44 234 11 11",
+                        "price": 40.52,
+                        "range": "25.745-40.71",
+                        "isFund": false,
+                        "mktCap": 128978653432.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "UBS",
+                        "volAvg": 2267753.0,
+                        "address": "Bahnhofstrasse 45",
+                        "changes": -0.08,
+                        "country": "CH",
+                        "dcfDiff": -271.54872,
+                        "ipoDate": "2000-05-16",
+                        "lastDiv": 0.89194,
+                        "website": "https://www.ubs.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "UBS Group AG",
+                        "description": "UBS Group AG provides financial advice and solutions to private, institutional, and corporate clients worldwide. It operates through four divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management, and Investment Bank. The Global Wealth Management division offers investment advice and solutions, and lending solutions to ultra high net worth and high net worth clients. This segment also provides estate and wealth planning, investing, philanthropy, corporate and banking, and family advisory services, as well as mortgage, securities-based, and structured lending solutions. The Personal & Corporate Banking division provides personal banking products and services, such as deposits, cards, and online and mobile banking, as well as lending, investments, and retirement services; and corporate and institutional solutions, including equity and debt capital markets, syndicated and structured credit, private placements, leasing, traditional financing, trade and export finance, and global custody solutions, as well as transaction banking solutions for payment and cash management. The Asset Management division offers equities, fixed income, hedge funds, real estate and private markets, indexed and alternative beta strategies, asset allocation and currency investment strategies, customized multi-asset solutions, advisory and fiduciary services, and multi-manager hedge fund solutions and advisory services. The Investment Bank division advises clients on strategic business opportunities and helps them raise capital to fund their activities; enables its clients to buy, sell, and finance securities on capital markets and to manage their risks and liquidity; and offers clients differentiated content on major financial markets and securities. The company was formerly known as UBS AG and changed its name to UBS Group AG in December 2014. UBS Group AG was founded in 1862 and is based in Zurich, Switzerland.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 106789.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3378,
+        "code": "SAN",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hector Blas Grisi Checa",
+                        "dcf": -8.790013143924787,
+                        "zip": "28660",
+                        "beta": 1.297,
+                        "city": "Madrid",
+                        "isin": "US05964H1059",
+                        "image": "https://images.financialmodelingprep.com/symbol/SAN.png",
+                        "isAdr": true,
+                        "isEtf": false,
+                        "phone": "34 902 11 22 11",
+                        "price": 9.53,
+                        "range": "4.43-9.82",
+                        "isFund": false,
+                        "mktCap": 144499915867.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "SAN",
+                        "volAvg": 6013979.0,
+                        "address": "Santander Group City",
+                        "changes": -0.14,
+                        "country": "ES",
+                        "dcfDiff": 18.32001,
+                        "ipoDate": "1987-07-30",
+                        "lastDiv": 0.25,
+                        "website": "https://www.santander.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Santander, S.A.",
+                        "description": "Banco Santander, S.A. provides various retail and commercial banking products and services to individuals, small and medium-sized enterprises, and large companies worldwide. It offers demand and time deposits, and current and savings accounts; mortgages, consumer finance, syndicated corporate loans, structured financing, cash management, export and agency finance, trade and working capital solutions, and corporate finance; and insurance products. The company also provides cash, asset, and wealth management; and private banking services. In addition, it is involved in the corporate banking; treasury, risk hedging, foreign trade, confirming, custody, and investment banking activities. The company operates through a network of 9,879 branches. The company was formerly known as Banco Santander Central Hispano S.A. and changed its name to Banco Santander, S.A. in June 2007. Banco Santander, S.A. was founded in 1856 and is headquartered in Madrid, Spain.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 206736.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3384,
+        "code": "BOY",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Onur Genc",
+                        "dcf": 36.36220027623441,
+                        "zip": "48005",
+                        "beta": 1.413,
+                        "city": "Bilbao",
+                        "isin": "ES0113211835",
+                        "image": "https://images.financialmodelingprep.com/symbol/BOY.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "34913746000",
+                        "price": 15.54,
+                        "range": "8.772-16.62",
+                        "isFund": false,
+                        "mktCap": 89402014467.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BOY.DE",
+                        "volAvg": 9166.0,
+                        "address": "Plaza San NicolAs, 4",
+                        "changes": -0.05,
+                        "country": "ES",
+                        "dcfDiff": -20.7722,
+                        "ipoDate": "1998-11-10",
+                        "lastDiv": 0.7,
+                        "website": "https://www.bbva.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Bilbao Vizcaya Argentaria, S.A.",
+                        "description": "Banco Bilbao Vizcaya Argentaria, S.A., together with its subsidiaries, provides retail banking, wholesale banking, and asset management services. It offers current accounts; and demand, savings, overnight, time, term, and subordinated deposits. The company also provides loan products; deals in securities; and manages pension and investment funds. In addition, it offers credit cards; corporate and investment banking services; insurance products and services; and real estate services. The company provides its products through online and mobile channels. As of December 31, 2021, it operated through a network of 6,083 branches and 29,148 ATMs. It operates in Spain, Mexico, South America, the United States, Turkey, Asia, and rest of Europe. Banco Bilbao Vizcaya Argentaria, S.A. was founded in 1857 and is headquartered in Bilbao, Spain.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 124741.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 3386,
+        "code": "BVA",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Onur Genc",
+                        "dcf": 39.41913845457049,
+                        "zip": "48005",
+                        "beta": 1.413,
+                        "city": "Bilbao",
+                        "isin": "ES0113211835",
+                        "image": "https://images.financialmodelingprep.com/symbol/BVA.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "34913746000",
+                        "price": 15.47,
+                        "range": "8.6-16.745",
+                        "isFund": false,
+                        "mktCap": 88999302690.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BVA.L",
+                        "volAvg": 3039928.0,
+                        "address": "Plaza San NicolAs, 4",
+                        "changes": -0.08,
+                        "country": "ES",
+                        "dcfDiff": -23.77914,
+                        "ipoDate": "2001-08-13",
+                        "lastDiv": 0.60284,
+                        "website": "https://www.bbva.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Bilbao Vizcaya Argentaria, S.A.",
+                        "description": "Banco Bilbao Vizcaya Argentaria, S.A., together with its subsidiaries, provides retail banking, wholesale banking, and asset management services. It offers current accounts; and demand, savings, overnight, time, term, and subordinated deposits. The company also provides loan products; deals in securities; and manages pension and investment funds. In addition, it offers credit cards; corporate and investment banking services; insurance products and services; and real estate services. The company provides its products through online and mobile channels. As of December 31, 2021, it operated through a network of 6,083 branches and 29,148 ATMs. It operates in Spain, Mexico, South America, the United States, Turkey, Asia, and rest of Europe. Banco Bilbao Vizcaya Argentaria, S.A. was founded in 1857 and is headquartered in Bilbao, Spain.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 124741.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3388,
+        "code": "BNS",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "L. Scott Thomson",
+                        "dcf": -22.38983808584167,
+                        "zip": "B3J 1W1",
+                        "beta": 1.237,
+                        "city": "Toronto",
+                        "isin": "CA0641491075",
+                        "image": "https://images.financialmodelingprep.com/symbol/BNS.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "14168663672",
+                        "price": 62.46,
+                        "range": "44.09-62.69",
+                        "isFund": false,
+                        "mktCap": 77798302200.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BNS",
+                        "volAvg": 2041967.0,
+                        "address": "1709 Hollis Street",
+                        "changes": 0.07,
+                        "country": "CA",
+                        "dcfDiff": 76.48484,
+                        "ipoDate": "2002-06-07",
+                        "lastDiv": 3.06952,
+                        "website": "https://www.scotiabank.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "The Bank of Nova Scotia",
+                        "description": "The Bank of Nova Scotia provides various banking products and services in Canada, the United States, Mexico, Peru, Chile, Colombia, the Caribbean and Central America, and internationally. It operates in four segments: Canadian Banking, International Banking, Global Wealth Management, and Global Banking and Markets. The company offers financial advice and solutions, and day-to-day banking products, including debit and credit cards, chequing and saving accounts, investments, mortgages, loans, and insurance to individuals; and business banking solutions comprising lending, deposit, cash management, and trade finance solutions to small, medium, and large businesses, including automotive financing solutions to dealers and their customers. It also provides wealth management advice and solutions, including online brokerage, mobile investment, full-service brokerage, trust, private banking, and private investment counsel services; and retail mutual funds, exchange traded funds, liquid alternative funds, and institutional funds. In addition, the company offers international banking services for retail, corporate, and commercial customers; and lending and transaction, investment banking advisory, and capital markets access services to corporate customers. Further, it provides online, mobile, and telephone banking services. The company operates a network of 954 branches and approximately 3,766 automated banking machines in Canada; and approximately 1,300 branches and a network of contact and support center internationally. The Bank of Nova Scotia was founded in 1832 and is headquartered in Halifax, Canada.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 88722.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3387,
+        "code": "NU",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "David Velez-Osomo",
+                        "dcf": 29.821307073749637,
+                        "zip": "5409-0000",
+                        "beta": 1.059,
+                        "city": "S\u00e3o Paulo",
+                        "isin": "KYG6683N1034",
+                        "image": "https://images.financialmodelingprep.com/symbol/NU.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "1 345 949 2648",
+                        "price": 14.8,
+                        "range": "9.01-16.145",
+                        "isFund": false,
+                        "mktCap": 71508984220.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "NU",
+                        "volAvg": 63802143.0,
+                        "address": "Rua Capote Valente, 39",
+                        "changes": 0.03,
+                        "country": "BR",
+                        "dcfDiff": -15.02131,
+                        "ipoDate": "2021-12-09",
+                        "lastDiv": 0.0,
+                        "website": "https://www.nubank.com.br",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Nu Holdings Ltd.",
+                        "description": "Nu Holdings Ltd. operates as a digital financial services platform and technology company primarily in Brazil, Mexico, and Colombia. It offers Nu credit and debit cards; Ultraviolet credit and debit cards; and mobile payment solutions for NuAccount customers to make and receive transfers, pay bills, and make everyday purchases through their mobile phones. The company provides savings solutions, such as Nu Personal Accounts, a digital account solution that supports all personal finance activities, from daily purchases and money transfers to savings; and Nu business accounts designed specifically for entrepreneur customers and their businesses. In addition, it offers NuInvest, an investment product that provides equity, fixed-income, options, and ETF products, as well as multimarket funds with curated asset allocations based on the customer's risk profile and financial position; personal unsecured loans; in-app buy now pay later' solution for Nu card customers to pay credit and debit purchases, and banking payment slips over time in up to twelve installments; and NuInsurance protecting solutions to help its customers secure life insurance and funeral benefits. The company was founded in 2013 and is headquartered in Sao Paulo, Brazil.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 5403.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3393,
+        "code": "X5Z",
+        "exchange": "F",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Shayne Cary Elliott",
+                        "dcf": 45.54474024393642,
+                        "zip": "3008",
+                        "beta": 0.608,
+                        "city": "Melbourne",
+                        "isin": "US03736N1046",
+                        "image": "https://images.financialmodelingprep.com/symbol/X5Z.F.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "61 3 9273 5555",
+                        "price": 18.576,
+                        "range": "14-20.4",
+                        "isFund": false,
+                        "mktCap": 55347663812.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "X5Z.F",
+                        "volAvg": 43.0,
+                        "address": "ANZ Centre",
+                        "changes": -0.102,
+                        "country": "AU",
+                        "dcfDiff": -29.24474,
+                        "ipoDate": "2014-08-19",
+                        "lastDiv": 0.43799,
+                        "website": "https://www.anz.com.au",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Frankfurt Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "ANZ Group Holdings Limited",
+                        "description": "ANZ Group Holdings Limited provides various banking and financial products and services to individuals and business customers in Australia and internationally. It offers home and personal loans, deposits, and credit cards through the branch network, home loan specialists, contact centers, self-service channels, and third-party brokers. The company also provides asset financing for small business owners, medium and large commercial customers, high net worth individuals, and family groups. In addition, it offers working capital and liquidity solutions, including documentary trade, supply chain and commodity financing, cash management solutions, deposits, payments, and clearing services; loan products, loan syndication, loan structuring and execution, project and export finance, debt structuring and acquisition finance, and corporate advisory services; and risk management services. Further, the company provides banking and wealth management services to consumers, and private banking and small business banking customers through its internet and app-based digital solutions, network of branches, mortgage specialists, relationship managers, and contact centers; and traditional relationship banking and financial solutions for small, medium, and large enterprises, agricultural business segments, and government and government-related entities. ANZ Group Holdings Limited was founded in 1835 and is based in Melbourne, Australia.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 43094.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3389,
+        "code": "0R3T",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Sergio P. Ermotti",
+                        "dcf": 0.0,
+                        "zip": "8001",
+                        "beta": 0.918,
+                        "city": "Zurich",
+                        "isin": "",
+                        "image": "https://images.financialmodelingprep.com/symbol/0R3T.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "41 44 234 11 11",
+                        "price": 16.005,
+                        "range": "13.87-23.8",
+                        "isFund": false,
+                        "mktCap": 59640552618.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "0R3T.L",
+                        "volAvg": 2633239.0,
+                        "address": "Bahnhofstrasse 45",
+                        "changes": -0.0014,
+                        "country": "CH",
+                        "dcfDiff": null,
+                        "ipoDate": "2014-11-28",
+                        "lastDiv": 0.73561,
+                        "website": "https://www.ubs.com",
+                        "currency": "CHF",
+                        "originalCurrency": "CHF",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "UBS Group AG",
+                        "description": "UBS Group AG provides financial advice and solutions to private, institutional, and corporate clients worldwide. It operates through four divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management, and Investment Bank. The Global Wealth Management division offers investment advice and solutions, and lending solutions to ultra high net worth and high net worth clients. This segment also provides estate and wealth planning, investing, philanthropy, corporate and banking, and family advisory services, as well as mortgage, securities-based, and structured lending solutions. The Personal & Corporate Banking division provides personal banking products and services, such as deposits, cards, and online and mobile banking, as well as lending, investments, and retirement services; and corporate and institutional solutions, including equity and debt capital markets, syndicated and structured credit, private placements, leasing, traditional financing, trade and export finance, and global custody solutions, as well as transaction banking solutions for payment and cash management. The Asset Management division offers equities, fixed income, hedge funds, real estate and private markets, indexed and alternative beta strategies, asset allocation and currency investment strategies, customized multi-asset solutions, advisory and fiduciary services, and multi-manager hedge fund solutions and advisory services. The Investment Bank division advises clients on strategic business opportunities and helps them raise capital to fund their activities; enables its clients to buy, sell, and finance securities on capital markets and to manage their risks and liquidity; and offers clients differentiated content on major financial markets and securities. The company was formerly known as UBS AG and changed its name to UBS Group AG in December 2014. UBS Group AG was founded in 1862 and is based in Zurich, Switzerland.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 106789.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3391,
+        "code": "CM",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Victor G. Dodig",
+                        "dcf": 4.900399862672587,
+                        "zip": "M5J 0E7",
+                        "beta": 1.255,
+                        "city": "Toronto",
+                        "isin": "CA1360691010",
+                        "image": "https://images.financialmodelingprep.com/symbol/CM.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "12128563612",
+                        "price": 77.29,
+                        "range": "53.62-77.73",
+                        "isFund": false,
+                        "mktCap": 72203622390.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "CM",
+                        "volAvg": 1368419.0,
+                        "address": "81 Bay Street",
+                        "changes": 0.27,
+                        "country": "CA",
+                        "dcfDiff": 63.7696,
+                        "ipoDate": "1997-11-13",
+                        "lastDiv": 2.739,
+                        "website": "https://www.cibc.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Canadian Imperial Bank of Commerce",
+                        "description": "Canadian Imperial Bank of Commerce, a diversified financial institution, provides various financial products and services to personal, business, public sector, and institutional clients in Canada, the United States, and internationally. The company operates through four strategic business units: Canadian Personal and Business Banking; Canadian Commercial Banking and Wealth Management; U.S. Commercial Banking and Wealth Management; and Capital Markets. The company offers chequing, savings, and business accounts; mortgages; loans, lines of credit, student lines of credit, and business and agriculture loans; investment and insurance services; and credit cards, as well as overdraft protection services. It also provides day-to-day banking, borrowing and credit, specialty, investing and wealth, and international services; correspondent banking and online foreign exchange services; and cash management services. Canadian Imperial Bank of Commerce was founded in 1867 and is headquartered in Toronto, Canada.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 48698.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 3390,
+        "code": "SANTA",
+        "exchange": "BR",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hector Blas Grisi Checa",
+                        "dcf": 0.0,
+                        "zip": "28660",
+                        "beta": 1.334084,
+                        "city": "Madrid",
+                        "isin": null,
+                        "image": "https://images.financialmodelingprep.com/symbol/SANTA.BR.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "34 902 11 22 11",
+                        "price": 3.582,
+                        "range": "2.4-3.98",
+                        "isFund": false,
+                        "mktCap": 57971445627.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "SANTA.BR",
+                        "volAvg": 12844.0,
+                        "address": "Santander Group City",
+                        "changes": -0.068,
+                        "country": "ES",
+                        "dcfDiff": null,
+                        "ipoDate": "2017-12-14",
+                        "lastDiv": 0.16,
+                        "website": "https://www.santander.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Euronext Brussels",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Banco Santander, S.A.",
+                        "description": "Banco Santander, S.A. provides various retail and commercial banking products and services to individuals, small and medium-sized enterprises, and large companies worldwide. It offers demand and time deposits, and current and savings accounts; mortgages, consumer finance, syndicated corporate loans, structured financing, cash management, export and agency finance, trade and working capital solutions, and corporate finance; and insurance products. The company also provides cash, asset, and wealth management; and private banking services. In addition, it is involved in the corporate banking; treasury, risk hedging, foreign trade, confirming, custody, and investment banking activities. The company operates through a network of 9,879 branches. The company was formerly known as Banco Santander Central Hispano S.A. and changed its name to Banco Santander, S.A. in June 2007. Banco Santander, S.A. was founded in 1856 and is headquartered in Madrid, Spain.",
+                        "defaultImage": true,
+                        "exchangeShortName": "BRU",
+                        "fullTimeEmployees": 212409.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3396,
+        "code": "INGA",
+        "exchange": "AS",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Steven J. A. van Rijswijk",
+                        "dcf": 14.331118895610976,
+                        "zip": "1102 CT",
+                        "beta": 1.3601677,
+                        "city": "Amsterdam",
+                        "isin": "NL0011821202",
+                        "image": "https://images.financialmodelingprep.com/symbol/INGA.AS.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "31 20 563 9111",
+                        "price": 20.515,
+                        "range": "14.236-21.52",
+                        "isFund": false,
+                        "mktCap": 58569094100.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "INGA.AS",
+                        "volAvg": 7890741.0,
+                        "address": "Bijlmerdreef 106",
+                        "changes": 0.155,
+                        "country": "NL",
+                        "dcfDiff": 5.28088,
+                        "ipoDate": "1995-03-29",
+                        "lastDiv": 1.06,
+                        "website": "https://www.ing.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Euronext Amsterdam",
+                        "industry": "Banks - Diversified",
+                        "companyName": "ING Groep N.V.",
+                        "description": "ING Groep N.V., a financial institution, provides various banking products and services in the Netherlands, Belgium, Germany, Poland, Rest of Europe, North America, Latin America, Asia, and Australia. It operates in six segments: Retail Netherlands, Retail Belgium, Retail Germany, Retail Other, Wholesale Banking, and Corporate Line Banking. The company accepts various deposits, such as current and savings accounts; and offers business lending products, as well as consumer lending products, such as residential mortgage loans, term loans, and revolver and personal loans. It also provides debt capital market, working capital, export finance, daily banking, treasury and risk, and corporate finance solutions; and specialized lending, equity market, finance, payments and cash management, and trade services and solutions, as well as savings, investment, insurance, mortgage, and digital banking services. The company serves customers, corporate clients, and financial institutions, including small and medium-sized, and mid-corporates. ING Groep N.V. was founded in 1762 and is headquartered in Amsterdam, the Netherlands.",
+                        "defaultImage": false,
+                        "exchangeShortName": "AMS",
+                        "fullTimeEmployees": 60000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3392,
+        "code": "BCS",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Coimbatore Sundararajan Venkatakrishnan",
+                        "dcf": 41.85965887016215,
+                        "zip": "E14 5HP",
+                        "beta": 1.061,
+                        "city": "London",
+                        "isin": "US06738E2046",
+                        "image": "https://images.financialmodelingprep.com/symbol/BCS.png",
+                        "isAdr": true,
+                        "isEtf": false,
+                        "phone": "44 20 7116 1000",
+                        "price": 19.63,
+                        "range": "11.22-20.58",
+                        "isFund": false,
+                        "mktCap": 70649272214.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BCS",
+                        "volAvg": 14702846.0,
+                        "address": "1 Churchill Place",
+                        "changes": -0.4,
+                        "country": "GB",
+                        "dcfDiff": -26.19466,
+                        "ipoDate": "1986-09-09",
+                        "lastDiv": 0.4336,
+                        "website": "https://home.barclays",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Barclays PLC",
+                        "description": "Barclays PLC provides various financial services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia. The company operates through Barclays UK; Barclays UK Corporate Bank; Barclays Private Bank and Wealth Management; Barclays Investment Bank; and Barclays US Consumer Bank segments. It offers financial services, such as retail banking, credit cards, wholesale banking, investment banking, wealth management, and investment management services, as well as lending products. In addition, the company engages in securities dealing activities and issuing of credit cards. The company was formerly known as Barclays Bank public limited company and changed its name to Barclays PLC in January 1985. Barclays PLC was founded in 1690 and is headquartered in London, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 93000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3395,
+        "code": "BCY",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Coimbatore Sundararajan Venkatakrishnan",
+                        "dcf": 10.499014096514953,
+                        "zip": "E14 5HP",
+                        "beta": 1.061,
+                        "city": "London",
+                        "isin": "GB0031348658",
+                        "image": "https://images.financialmodelingprep.com/symbol/BCY.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "44 20 7116 1000",
+                        "price": 4.2,
+                        "range": "2.542-4.405",
+                        "isFund": false,
+                        "mktCap": 59019240000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "BCY.DE",
+                        "volAvg": 1196323.0,
+                        "address": "1 Churchill Place",
+                        "changes": -0.01,
+                        "country": "GB",
+                        "dcfDiff": -6.94201,
+                        "ipoDate": "2003-12-01",
+                        "lastDiv": 0.10002,
+                        "website": "https://www.home.barclays",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Barclays PLC",
+                        "description": "Barclays PLC, through its subsidiaries, provides various financial products and services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia. The company operates through Barclays UK and Barclays International divisions. It offers financial services, such as retail banking, credit cards, wholesale banking, investment banking, wealth management, and investment management services. The company also engages in securities dealing activities; and issues credit cards. The company was formerly known as Barclays Bank Limited and changed its name to Barclays PLC in January 1985. Barclays PLC was founded in 1690 and is headquartered in London, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 93000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3403,
+        "code": "EWBC",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Dominic Ng CPA",
+                        "dcf": 321.2296870408563,
+                        "zip": "91101",
+                        "beta": 0.96,
+                        "city": "Pasadena",
+                        "isin": "US27579R1041",
+                        "image": "https://images.financialmodelingprep.com/symbol/EWBC.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "626 768 6000",
+                        "price": 105.14,
+                        "range": "68.27-113.95",
+                        "isFund": false,
+                        "mktCap": 14490605080.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "EWBC",
+                        "volAvg": 846900.0,
+                        "address": "135 North Los Robles Avenue",
+                        "changes": -0.82,
+                        "country": "US",
+                        "dcfDiff": -214.10969,
+                        "ipoDate": "1999-02-03",
+                        "lastDiv": 2.35,
+                        "website": "https://www.eastwestbank.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "NASDAQ Global Select",
+                        "industry": "Banks - Diversified",
+                        "companyName": "East West Bancorp, Inc.",
+                        "description": "East West Bancorp, Inc. operates as the bank holding company for East West Bank that provides a range of personal and commercial banking services to businesses and individuals. It operates through three segments: Consumer and Business Banking, Commercial Banking, and Other. The company accepts various deposit products, such as personal and business checking and savings accounts, money market, and time deposits. Its loan products include mortgage and home equity, commercial and residential real estate, working capital lines of credit, construction, trade finance, letters of credit, commercial business, affordable housing loans, asset-based lending, asset-backed finance, project finance, and equipment financing, as well as financing services to clients needing a financial bridge to facilitate their business transactions between the United States and China. The company also provides various wealth management, treasury management, foreign exchange, and interest rate and commodity risk hedging services; and mobile and online banking services. As of January 27, 2022, it operated approximately 120 locations in the United States and China; full-service branches in Hong Kong, Shanghai, Shantou, and Shenzhen; and representative offices in Beijing, Chongqing, Guangzhou, Taipei, and Xiamen. East West Bancorp, Inc. was incorporated in 1998 and is headquartered in Pasadena, California.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NASDAQ",
+                        "fullTimeEmployees": 3100.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3397,
+        "code": "INN1",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Steven J. A. van Rijswijk",
+                        "dcf": -8.299524164620783,
+                        "zip": "1102 CT",
+                        "beta": 1.3561555,
+                        "city": "Amsterdam",
+                        "isin": "NL0011821202",
+                        "image": "https://images.financialmodelingprep.com/symbol/INN1.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "31 20 563 9111",
+                        "price": 20.51,
+                        "range": "14.238-21.545",
+                        "isFund": false,
+                        "mktCap": 58554819400.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "INN1.DE",
+                        "volAvg": 40056.0,
+                        "address": "Bijlmerdreef 106",
+                        "changes": 0.155,
+                        "country": "NL",
+                        "dcfDiff": 20.86952,
+                        "ipoDate": "2007-12-28",
+                        "lastDiv": 1.06,
+                        "website": "https://www.ing.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Banks - Diversified",
+                        "companyName": "ING Groep N.V.",
+                        "description": "ING Groep N.V., a financial institution, provides various banking products and services in the Netherlands, Belgium, Germany, Poland, Rest of Europe, North America, Latin America, Asia, and Australia. It operates in six segments: Retail Netherlands, Retail Belgium, Retail Germany, Retail Other, Wholesale Banking, and Corporate Line Banking. The company accepts various deposits, such as current and savings accounts; and offers business lending products, as well as consumer lending products, such as residential mortgage loans, term loans, and revolver and personal loans. It also provides debt capital market, working capital, export finance, daily banking, treasury and risk, and corporate finance solutions; and specialized lending, equity market, finance, payments and cash management, and trade services and solutions, as well as savings, investment, insurance, mortgage, and digital banking services. The company serves customers, corporate clients, and financial institutions, including small and medium-sized, and mid-corporates. ING Groep N.V. was founded in 1762 and is headquartered in Amsterdam, the Netherlands.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 60000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3398,
+        "code": "INGA",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Steven J. A. van Rijswijk",
+                        "dcf": 0.0,
+                        "zip": "1102 CT",
+                        "beta": 0.30619776,
+                        "city": "Amsterdam",
+                        "isin": "NL0011821202",
+                        "image": "https://images.financialmodelingprep.com/symbol/INGA.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "31 20 563 9111",
+                        "price": 11.278,
+                        "range": "11.278-13.758",
+                        "isFund": false,
+                        "mktCap": 58760476456.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "INGA.SW",
+                        "volAvg": 0.0,
+                        "address": "Bijlmerdreef 106",
+                        "changes": -11.278,
+                        "country": "NL",
+                        "dcfDiff": null,
+                        "ipoDate": "2016-10-19",
+                        "lastDiv": 1.14777,
+                        "website": "https://www.ing.com",
+                        "currency": "CHF",
+                        "originalCurrency": "CHF",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "ING Groep N.V.",
+                        "description": "ING Groep N.V., a financial institution, provides various banking products and services in the Netherlands, Belgium, Germany, Poland, Rest of Europe, North America, Latin America, Asia, and Australia. It operates in six segments: Retail Netherlands, Retail Belgium, Retail Germany, Retail Other, Wholesale Banking, and Corporate Line Banking. The company accepts various deposits, such as current and savings accounts; and offers business lending products, as well as consumer lending products, such as residential mortgage loans, term loans, and revolver and personal loans. It also provides debt capital market, working capital, export finance, daily banking, treasury and risk, and corporate finance solutions; and specialized lending, equity market, finance, payments and cash management, and trade services and solutions, as well as savings, investment, insurance, mortgage, and digital banking services. The company serves customers, corporate clients, and financial institutions, including small and medium-sized, and mid-corporates. ING Groep N.V. was founded in 1762 and is headquartered in Amsterdam, the Netherlands.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 60000.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3401,
+        "code": "ABN",
+        "exchange": "AS",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Marguerite B\u00e9rard-Andrieu",
+                        "dcf": -16.126565093951235,
+                        "zip": "1082 PP",
+                        "beta": 0.944,
+                        "city": "Amsterdam",
+                        "isin": "NL0011540547",
+                        "image": "https://images.financialmodelingprep.com/symbol/ABN.AS.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "31 20 343 4343",
+                        "price": 24.75,
+                        "range": "14.355-26.33",
+                        "isFund": false,
+                        "mktCap": 20617952009.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "ABN.AS",
+                        "volAvg": 2721476.0,
+                        "address": "Gustav Mahlerlaan 10",
+                        "changes": 0.1,
+                        "country": "NL",
+                        "dcfDiff": 37.29657,
+                        "ipoDate": "2015-11-20",
+                        "lastDiv": 0.54,
+                        "website": "https://www.abnamro.nl",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Euronext Amsterdam",
+                        "industry": "Banks - Diversified",
+                        "companyName": "ABN AMRO Bank N.V.",
+                        "description": "ABN AMRO Bank N.V. provides various banking products and services to retail, private, and business clients in the Netherlands and internationally. It operates through three segments: Personal & Business Banking, Wealth Management, and Corporate Banking. The company provides savings and deposits products; labelled residential mortgage products under the Florius brands; and consumer loans under the Alpha Credit Nederland, Credivance, Defam, Moneyou, and ABN AMRO brands. It also issues, promotes, manages, and processes credit cards; provides revolving credit card facilities and pension schemes, as well as consumer credit and mortgages; and life and non-life insurance products. In addition, it offers asset-based solutions, including working capital solutions, equipment leases and loans, and vendor lease services; private banking and wealth-management-related services; and derivatives and equity clearing services. ABN AMRO Bank N.V. was incorporated in 2009 and is headquartered in Amsterdam, the Netherlands.",
+                        "defaultImage": false,
+                        "exchangeShortName": "AMS",
+                        "fullTimeEmployees": 21976.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3405,
+        "code": "ALR",
+        "exchange": "WA",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Piotr Krzysztof Zabski",
+                        "dcf": -42.94789694319603,
+                        "zip": "02-232",
+                        "beta": 1.288,
+                        "city": "Warsaw",
+                        "isin": "PLALIOR00045",
+                        "image": "https://images.financialmodelingprep.com/symbol/ALR.WA.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "48 12 370 7000",
+                        "price": 102.5,
+                        "range": "83.68-123.95",
+                        "isFund": false,
+                        "mktCap": 13381785000.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "ALR.WA",
+                        "volAvg": 419232.0,
+                        "address": "ul. Lopuszanska 38D",
+                        "changes": -1.2,
+                        "country": "PL",
+                        "dcfDiff": 147.5979,
+                        "ipoDate": "2012-12-17",
+                        "lastDiv": 9.19,
+                        "website": "https://www.aliorbank.pl",
+                        "currency": "PLN",
+                        "originalCurrency": "PLN",
+                        "exchange": "Warsaw Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Alior Bank S.A.",
+                        "description": "Alior Bank S.A. provides banking products and services to individuals, businesses, and enterprises in Poland. The company operates through three segments: Retail, Business, and Treasury Activities. The company offers personal, savings, and subsidiary accounts; term and savings deposit products; cash, mortgage, working capital, and investment loans; credit cards; brokerage products and investment funds; and derivative instruments, as well as currency exchange transaction and current account overdraft services, and cash deposit, withdrawal, and transfer services. It also engages in the debt collection and asset management activities; management of collective security portfolios and financial instruments; activities of insurance agents and broker; activities related to risk assessment; finance of fixed assets and lease loans; and provision IT consulting and related services. Alior Bank S.A. was founded in 2008 and is based in Warsaw, Poland.",
+                        "defaultImage": false,
+                        "exchangeShortName": "WSE",
+                        "fullTimeEmployees": 6932.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3408,
+        "code": "CSGN",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Ulrich Korner",
+                        "dcf": 0.0,
+                        "zip": "8001",
+                        "beta": 1.191489,
+                        "city": "Zurich",
+                        "isin": "CH0012138530",
+                        "image": "https://images.financialmodelingprep.com/symbol/CSGN.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "41 44 333 11 11",
+                        "price": 0.817,
+                        "range": "0.66-5.924",
+                        "isFund": false,
+                        "mktCap": 3224617274.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "CSGN.SW",
+                        "volAvg": 34154216.0,
+                        "address": "Paradeplatz 8",
+                        "changes": 0.0,
+                        "country": "CH",
+                        "dcfDiff": null,
+                        "ipoDate": "1995-04-14",
+                        "lastDiv": 0.05,
+                        "website": "https://www.credit-suisse.com",
+                        "currency": "CHF",
+                        "originalCurrency": "CHF",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Credit Suisse Group AG",
+                        "description": "Credit Suisse Group AG, together with its subsidiaries, provides various financial services in Switzerland, Europe, the Middle East, Africa, the Americas, and Asia Pacific. The company offers wealth management solutions, including investment advice and discretionary asset management services; risk management solutions, such as managed investment products; and wealth planning, succession planning, and trust services. It also provides financing and lending solutions, including consumer credit and real estate mortgage lending, real asset lending relating to ship, and aviation financing for UHNWI; standard and structured hedging, and lombard lending solutions, as well as collateral trading services; and investment banking solutions, such as global securities sales, trading and execution, capital raising, and advisory services. In addition, the company offers banking solutions, such as payments, accounts, debit and credit cards, and product bundles; asset management products; equity and debt underwriting, and advisory services; cash equities, equity derivatives, and convertibles, as well as prime services; and fixed income products, such as credit, securitized, macro, emerging markets, financing, structured credit, and other products. Further, it provides HOLT, a framework for assessing the performance of approximately 20,000 companies; and equity and fixed income research services. The company serves private and institutional clients; ultra-high-net-worth individuals, high-net-worth individuals, and affluent and retail clients; corporate clients, small and medium-sized enterprises, external asset managers, financial institutions, and commodity traders; and pension funds, hedge funds, governments, foundations and endowments, corporations, entrepreneurs, private individuals, financial sponsors, and sovereign clients. As of December 31, 2021, it operated through a network of 311 offices and branches. The company was founded in 1856 and is based in Zurich, Switzerland.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 48150.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 3402,
+        "code": "CABP",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Neeraj Kapur ACGI, BEng, CF, FCIBS",
+                        "dcf": 118.22104160028928,
+                        "zip": "SM2 5AS",
+                        "beta": 1.895,
+                        "city": "Sutton",
+                        "isin": "GB00BMCYKB41",
+                        "image": "https://images.financialmodelingprep.com/symbol/CABP.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "44 20 3903 3000",
+                        "price": 48.98086,
+                        "range": "37.05-132.8",
+                        "isFund": false,
+                        "mktCap": 124481535.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "CABP.L",
+                        "volAvg": 517882.0,
+                        "address": "Quadrant House",
+                        "changes": -1.41914,
+                        "country": "GB",
+                        "dcfDiff": -69.62104,
+                        "ipoDate": "2023-07-06",
+                        "lastDiv": 0.0,
+                        "website": "https://cabpayments.com",
+                        "currency": "GBp",
+                        "originalCurrency": "GBp",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "CAB Payments Holdings Limited",
+                        "description": "CAB Payments Holdings Limited, through its subsidiaries, provides foreign exchange (FX) and cross-border payments services to banks, fintech companies, development organizations, and governments in the United Kingdom and internationally. The company offers EMpower FX, an end-to-end automated payments gateway for cross-border payments; EMpower Payments, a digital platform for day-to-day exposures in FX; EMpower Connect, a bank oriented service for making hard currency payments; and EMpower Pensions, a pension payment full service platform. It also provides a range of banking and other services, including transaction and deposit accounts, and trade and financial consulting related services; and B2B payment gateway software. The company was formerly known as CABIM Limited and changed its name to CAB Payments Holdings Limited in March 2023. CAB Payments Holdings Limited was incorporated in 2015 and is based in Sutton, United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 421.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3407,
+        "code": "CS",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Ulrich Korner",
+                        "dcf": 71.6733,
+                        "zip": "8001",
+                        "beta": 1.191489,
+                        "city": "Zurich",
+                        "isin": "US2254011081",
+                        "image": "https://images.financialmodelingprep.com/symbol/CS.png",
+                        "isAdr": true,
+                        "isEtf": false,
+                        "phone": "41 44 333 11 11",
+                        "price": 0.8858,
+                        "range": "0.8153-6.08",
+                        "isFund": false,
+                        "mktCap": 3496163992.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "CS",
+                        "volAvg": 26246510.0,
+                        "address": "Paradeplatz 8",
+                        "changes": 0.0087,
+                        "country": "CH",
+                        "dcfDiff": 68.1133,
+                        "ipoDate": "2001-09-25",
+                        "lastDiv": 0.05,
+                        "website": "https://www.credit-suisse.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "Credit Suisse Group AG",
+                        "description": "Credit Suisse Group AG, together with its subsidiaries, provides various financial services in Switzerland, Europe, the Middle East, Africa, the Americas, and Asia Pacific. The company offers wealth management solutions, including investment advice and discretionary asset management services; risk management solutions, such as managed investment products; and wealth planning, succession planning, and trust services. It also provides financing and lending solutions, including consumer credit and real estate mortgage lending, real asset lending relating to ship, and aviation financing for UHNWI; standard and structured hedging, and lombard lending solutions, as well as collateral trading services; and investment banking solutions, such as global securities sales, trading and execution, capital raising, and advisory services. In addition, the company offers banking solutions, such as payments, accounts, debit and credit cards, and product bundles; asset management products; equity and debt underwriting, and advisory services; cash equities, equity derivatives, and convertibles, as well as prime services; and fixed income products, such as credit, securitized, macro, emerging markets, financing, structured credit, and other products. Further, it provides HOLT, a framework for assessing the performance of approximately 20,000 companies; and equity and fixed income research services. The company serves private and institutional clients; ultra-high-net-worth individuals, high-net-worth individuals, and affluent and retail clients; corporate clients, small and medium-sized enterprises, external asset managers, financial institutions, and commodity traders; and pension funds, hedge funds, governments, foundations and endowments, corporations, entrepreneurs, private individuals, financial sponsors, and sovereign clients. As of December 31, 2021, it operated through a network of 311 offices and branches. The company was founded in 1856 and is based in Zurich, Switzerland.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 48150.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 3409,
+        "code": "NTB",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Michael Weld Collins",
+                        "dcf": 62.524045691685295,
+                        "zip": "HM 12",
+                        "beta": 0.608,
+                        "city": "Hamilton",
+                        "isin": "BMG0772R2087",
+                        "image": "https://images.financialmodelingprep.com/symbol/NTB.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "14412951111",
+                        "price": 45.12,
+                        "range": "34.77-46.89",
+                        "isFund": false,
+                        "mktCap": 1859083872.0,
+                        "period": "Y",
+                        "sector": "Financial Services",
+                        "symbol": "NTB",
+                        "volAvg": 171954.0,
+                        "address": "65 Front Street",
+                        "changes": 0.16,
+                        "country": "BM",
+                        "dcfDiff": -22.76405,
+                        "ipoDate": "2016-09-16",
+                        "lastDiv": 1.82,
+                        "website": "https://www.butterfieldgroup.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Banks - Diversified",
+                        "companyName": "The Bank of N.T. Butterfield & Son Limited",
+                        "description": "The Bank of N.T. Butterfield & Son Limited provides a range of community, commercial, and private banking services to individuals and small to medium-sized businesses. It accepts retail and corporate checking, savings, term, and interest bearing and non-interest bearing deposits, as well as certificate of deposits. The company's lending portfolio includes residential mortgage lending, automobile lending, consumer financing, credit cards, overdraft facilities, commercial real estate lending, and commercial and industrial loans. It also offers investment products and services; and cash and liquidity management, foreign exchange, custody administration, and settlement services. In addition, the company provides personal and property/auto insurance products; letters of credit; and cash management, payroll, remote banking, money market, advisory, brokerage, trust, estate, company management, and fiduciary services. Further, it offers debit cards; automated teller machines; and personal and business deposit, merchant acquiring, and mobile and internet banking services. The company operates through offices in the Cayman Islands, Guernsey, Jersey, the United Kingdom, The Bahamas, Switzerland, Singapore, Mauritius, and Canada. It also operates through 3 branches in Bermuda and 4 branches in the Cayman Islands. The Bank of N.T. Butterfield & Son Limited was founded in 1858 and is headquartered in Hamilton, Bermuda.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 1295.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    }
+]

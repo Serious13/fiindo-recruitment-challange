@@ -1,0 +1,840 @@
+[
+    {
+        "id": 7125,
+        "code": "APC",
+        "exchange": "DE",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Timothy D. Cook",
+                        "dcf": 114.51845437757987,
+                        "zip": "95014",
+                        "beta": 1.165,
+                        "city": "Cupertino",
+                        "isin": "US0378331005",
+                        "image": "https://images.financialmodelingprep.com/symbol/APC.DE.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "408 996 1010",
+                        "price": 198.22,
+                        "range": "152-248.75",
+                        "isFund": false,
+                        "mktCap": 2941664088000.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "APC.DE",
+                        "volAvg": 42935.0,
+                        "address": "One Apple Park Way",
+                        "changes": 0.38,
+                        "country": "US",
+                        "dcfDiff": 83.46155,
+                        "ipoDate": "2000-01-03",
+                        "lastDiv": 0.92072,
+                        "website": "https://www.apple.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Deutsche B\u00f6rse",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Apple Inc.",
+                        "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. It also sells various related services. In addition, the company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; AirPods Max, an over-ear wireless headphone; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, HomePod, and iPod touch. Further, it provides AppleCare support services; cloud services store services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts. Additionally, the company offers various services, such as Apple Arcade, a game subscription service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was incorporated in 1977 and is headquartered in Cupertino, California.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 164000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7122,
+        "code": "0QYR",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Yuki Kusumi",
+                        "dcf": 1632.7501920392258,
+                        "zip": "571-8501",
+                        "beta": 0.763,
+                        "city": "Kadoma",
+                        "isin": "JP3866800000",
+                        "image": "https://images.financialmodelingprep.com/symbol/0QYR.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "81 6 6908 1121",
+                        "price": 1515.0,
+                        "range": "1515-1527",
+                        "isFund": false,
+                        "mktCap": 3537049792980.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "0QYR.L",
+                        "volAvg": 270554.16216,
+                        "address": "1006, Oaza Kadoma",
+                        "changes": 85.0,
+                        "country": "JP",
+                        "dcfDiff": -126.75019,
+                        "ipoDate": "1949-05-16",
+                        "lastDiv": 48.0,
+                        "website": "https://holdings.panasonic/global",
+                        "currency": "JPY",
+                        "originalCurrency": "JPY",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Panasonic Holdings Corporation",
+                        "description": "Panasonic Holdings Corporation, together with its subsidiaries, develops, manufactures, sells, and services various electrical and electronic products worldwide. It operates through Appliances, Life Solutions, Connected Solutions, Automotive, and Industrial Solutions segments. The Appliances segment offers air conditioners, refrigerators, washing machines, vacuum cleaners, microwave ovens, rice cookers, personal care products, TVs, digital cameras, video equipment, home audio equipment, fixed-phones, show cases, compressors, and fuel cells. The Life Solutions segment provides lighting fixtures, lamps, wiring devices, solar photovoltaic systems, spatial sterilizing/deodorizing equipment, interior and exterior furnishing materials, ventilation and air conditioning equipment, air purifiers, bicycles, and nursing care related products, as well as kitchen and bath products. The Connected Solutions segment offers aircraft in-flight entertainment systems and communications services, electronic component mounting machines, welding equipment, PCs and tablets, projectors, and professional AV systems, as well as solutions for various industries. The Automotive segment provides automotive-use infotainment systems, head-up displays, automotive audio systems, automotive switches, vehicle camera modules, advanced driver assistance systems, automotive mirrors, and cylindrical and prismatic lithium-ion batteries, as well as devices and systems for electric automobiles. The Industrial Solutions segment offers relays, switches, power supply products, industrial motors and sensors, capacitors, coils, resistors, electronic circuit board materials, semiconductors, and LCD panels, as well as small lithium-ion, dry, and micro batteries. The company was formerly known as Panasonic Corporation. Panasonic Holdings Corporation was founded in 1918 and is headquartered in Kadoma, Japan.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 207548.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7123,
+        "code": "AAPL",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Timothy D. Cook",
+                        "dcf": 178.7351661430978,
+                        "zip": "95014",
+                        "beta": 1.165,
+                        "city": "Cupertino",
+                        "isin": "US0378331005",
+                        "image": "https://images.financialmodelingprep.com/symbol/AAPL.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "(408) 996-1010",
+                        "price": 232.14,
+                        "range": "169.21-260.1",
+                        "isFund": false,
+                        "mktCap": 3445050426286.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "AAPL",
+                        "volAvg": 53942777.0,
+                        "address": "One Apple Park Way",
+                        "changes": -0.42,
+                        "country": "US",
+                        "dcfDiff": 53.40483,
+                        "ipoDate": "1980-12-12",
+                        "lastDiv": 1.02,
+                        "website": "https://www.apple.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "NASDAQ Global Select",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Apple Inc.",
+                        "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, and HomePod. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NASDAQ",
+                        "fullTimeEmployees": 164000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7124,
+        "code": "APC",
+        "exchange": "F",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Timothy D. Cook",
+                        "dcf": 114.86309575977776,
+                        "zip": "95014",
+                        "beta": 1.165,
+                        "city": "Cupertino",
+                        "isin": "US0378331005",
+                        "image": "https://images.financialmodelingprep.com/symbol/APC.F.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "408 996 1010",
+                        "price": 198.26,
+                        "range": "152.08-248.7",
+                        "isFund": false,
+                        "mktCap": 2942257704000.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "APC.F",
+                        "volAvg": 5331.0,
+                        "address": "One Apple Park Way",
+                        "changes": -0.82,
+                        "country": "US",
+                        "dcfDiff": 82.5569,
+                        "ipoDate": "2000-01-03",
+                        "lastDiv": 0.86725,
+                        "website": "https://www.apple.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Frankfurt Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Apple Inc.",
+                        "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. It also sells various related services. In addition, the company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, and HomePod. Further, it provides AppleCare support and cloud services store services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts. Additionally, the company offers various services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was incorporated in 1977 and is headquartered in Cupertino, California.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 164000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7126,
+        "code": "SMSD",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Tae-Moon Roh",
+                        "dcf": 0.0,
+                        "zip": "443-742",
+                        "beta": 0.752,
+                        "city": "Suwon-si",
+                        "isin": null,
+                        "image": "https://images.financialmodelingprep.com/symbol/SMSD.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "82 3 1200 1114",
+                        "price": 1072.0,
+                        "range": "714-1350",
+                        "isFund": false,
+                        "mktCap": 7220589785600.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "SMSD.L",
+                        "volAvg": 2067.0,
+                        "address": "129, Samsung-ro",
+                        "changes": -10.0,
+                        "country": "KR",
+                        "dcfDiff": null,
+                        "ipoDate": "2006-06-02",
+                        "lastDiv": 25.96094,
+                        "website": "https://www.samsung.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Samsung Electronics Co., Ltd.",
+                        "description": "Samsung Electronics Co., Ltd. engages in the consumer electronics, information technology and mobile communications, and device solutions businesses worldwide. It provides home appliances comprising of refrigerators, air dresser, washing machines, dryers, cooking appliances, dishwashers, vacuum cleaners, air conditioners, and air purifiers. The company also offers TVs, sound devices, smartphones, tablets, monitors, smart and LED signages, watches, and other accessories, as well as provides memory storage solutions. In addition, it provides medical equipment; software design, development, and supply; toll processing of semiconductors and display panels; general logistics agency, financing, marketing, consulting, and technology and cloud services; venture capital investment; enterprise automation solutions and connected services; installation and optimization services for network devices; and digital advertising platforms. The company serves retail, hospitality, finance, transportation, education, government, manufacturing, public safety, and healthcare industries. Samsung Electronics Co., Ltd. was founded in 1938 and is based in Suwon-si, South Korea.",
+                        "defaultImage": true,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 123915.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7130,
+        "code": "SSUN",
+        "exchange": "VI",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Tae-Moon Roh",
+                        "dcf": 29.54642961128669,
+                        "zip": "443-742",
+                        "beta": 0.752,
+                        "city": "Suwon-si",
+                        "isin": "US7960502018",
+                        "image": "https://images.financialmodelingprep.com/symbol/SSUN.VI.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "82 3 1200 1114",
+                        "price": 845.0,
+                        "range": "660-1020",
+                        "isFund": false,
+                        "mktCap": 276429086830.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "SSUN.VI",
+                        "volAvg": 1.0,
+                        "address": "129, Samsung-ro",
+                        "changes": -21.0,
+                        "country": "KR",
+                        "dcfDiff": 812.45357,
+                        "ipoDate": "2018-09-14",
+                        "lastDiv": 17.86588,
+                        "website": "https://www.samsung.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Vienna Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Samsung Electronics Co., Ltd.",
+                        "description": "Samsung Electronics Co., Ltd. engages in the consumer electronics, information technology and mobile communications, and device solutions businesses worldwide. It provides home appliances comprising of refrigerators, air dresser, washing machines, dryers, cooking appliances, dishwashers, vacuum cleaners, air conditioners, and air purifiers. The company also offers TVs, sound devices, smartphones, tablets, monitors, smart and LED signages, watches, and other accessories, as well as provides memory storage solutions. In addition, it provides medical equipment; software design, development, and supply; toll processing of semiconductors and display panels; general logistics agency, financing, marketing, consulting, and technology and cloud services; venture capital investment; enterprise automation solutions and connected services; installation and optimization services for network devices; and digital advertising platforms. The company serves retail, hospitality, finance, transportation, education, government, manufacturing, public safety, and healthcare industries. Samsung Electronics Co., Ltd. was founded in 1938 and is based in Suwon-si, South Korea.",
+                        "defaultImage": false,
+                        "exchangeShortName": "VIE",
+                        "fullTimeEmployees": 127172.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7127,
+        "code": "SMSN",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Tae-Moon Roh",
+                        "dcf": 0.0,
+                        "zip": "443-742",
+                        "beta": 0.752,
+                        "city": "Suwon-si",
+                        "isin": "US7960508882",
+                        "image": "https://images.financialmodelingprep.com/symbol/SMSN.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "82 3 1200 1114",
+                        "price": 1179.5,
+                        "range": "886.0-1612.0",
+                        "isFund": false,
+                        "mktCap": 7944669593140.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "SMSN.L",
+                        "volAvg": 19921.0,
+                        "address": "129, Samsung-ro",
+                        "changes": 0.0,
+                        "country": "KR",
+                        "dcfDiff": null,
+                        "ipoDate": "2000-05-10",
+                        "lastDiv": 19.57605,
+                        "website": "https://www.samsung.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Samsung Electronics Co., Ltd.",
+                        "description": "Samsung Electronics Co., Ltd. engages in the consumer electronics, information technology and mobile communications, and device solutions businesses worldwide. It provides home appliances comprising of refrigerators, air dresser, washing machines, dryers, cooking appliances, dishwashers, vacuum cleaners, air conditioners, and air purifiers. The company also offers TVs, sound devices, smartphones, tablets, monitors, smart and LED signages, watches, and other accessories, as well as provides memory storage solutions. In addition, it provides medical equipment; software design, development, and supply; toll processing of semiconductors and display panels; general logistics agency, financing, marketing, consulting, and technology and cloud services; venture capital investment; enterprise automation solutions and connected services; installation and optimization services for network devices; and digital advertising platforms. The company serves retail, hospitality, finance, transportation, education, government, manufacturing, public safety, and healthcare industries. Samsung Electronics Co., Ltd. was founded in 1938 and is based in Suwon-si, South Korea.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 127172.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7129,
+        "code": "SSUN",
+        "exchange": "F",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Tae-Moon Roh",
+                        "dcf": 732.4951615704598,
+                        "zip": "443-742",
+                        "beta": 0.752,
+                        "city": "Suwon-si",
+                        "isin": "US7960502018",
+                        "image": "https://images.financialmodelingprep.com/symbol/SSUN.F.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "82 3 1200 1114",
+                        "price": 860.0,
+                        "range": "650-1005",
+                        "isFund": false,
+                        "mktCap": 280479551180.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "SSUN.F",
+                        "volAvg": 200.0,
+                        "address": "129, Samsung-ro",
+                        "changes": 23.0,
+                        "country": "KR",
+                        "dcfDiff": 118.50484,
+                        "ipoDate": "2000-01-03",
+                        "lastDiv": 23.19,
+                        "website": "https://www.samsung.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Frankfurt Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Samsung Electronics Co., Ltd.",
+                        "description": "Samsung Electronics Co., Ltd. engages in the consumer electronics, information technology and mobile communications, and device solutions businesses worldwide. It provides home appliances comprising of refrigerators, air dresser, washing machines, dryers, cooking appliances, dishwashers, vacuum cleaners, air conditioners, and air purifiers. The company also offers TVs, sound devices, smartphones, tablets, monitors, smart and LED signages, watches, and other accessories, as well as provides memory storage solutions. In addition, it provides medical equipment; software design, development, and supply; toll processing of semiconductors and display panels; general logistics agency, financing, marketing, consulting, and technology and cloud services; venture capital investment; enterprise automation solutions and connected services; installation and optimization services for network devices; and digital advertising platforms. The company serves retail, hospitality, finance, transportation, education, government, manufacturing, public safety, and healthcare industries. Samsung Electronics Co., Ltd. was founded in 1938 and is based in Suwon-si, South Korea.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 127172.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7128,
+        "code": "BC94",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Tae-Moon Roh",
+                        "dcf": 843.6404502141914,
+                        "zip": "443-742",
+                        "beta": 0.752,
+                        "city": "Suwon-si",
+                        "isin": "US7960508882",
+                        "image": "https://images.financialmodelingprep.com/symbol/BC94.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "82 3 1200 1114",
+                        "price": 1225.0,
+                        "range": "860-1401.3793",
+                        "isFund": false,
+                        "mktCap": 330045615200.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "BC94.L",
+                        "volAvg": 440.0,
+                        "address": "129, Samsung-ro",
+                        "changes": 18.0,
+                        "country": "KR",
+                        "dcfDiff": 383.35955,
+                        "ipoDate": "2003-12-05",
+                        "lastDiv": 17.56901,
+                        "website": "https://www.samsung.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Samsung Electronics Co., Ltd.",
+                        "description": "Samsung Electronics Co., Ltd. engages in the consumer electronics, information technology and mobile communications, and device solutions businesses worldwide. It provides home appliances comprising of refrigerators, air dresser, washing machines, dryers, cooking appliances, dishwashers, vacuum cleaners, air conditioners, and air purifiers. The company also offers TVs, sound devices, smartphones, tablets, monitors, smart and LED signages, watches, and other accessories, as well as provides memory storage solutions. In addition, it provides medical equipment; software design, development, and supply; toll processing of semiconductors and display panels; general logistics agency, financing, marketing, consulting, and technology and cloud services; venture capital investment; enterprise automation solutions and connected services; installation and optimization services for network devices; and digital advertising platforms. The company serves retail, hospitality, finance, transportation, education, government, manufacturing, public safety, and healthcare industries. Samsung Electronics Co., Ltd. was founded in 1938 and is based in Suwon-si, South Korea.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 127172.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    "Extra data: line 1 column 4 (char 3)",
+    {
+        "id": 7131,
+        "code": "SSU",
+        "exchange": "VI",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Tae-Moon Roh",
+                        "dcf": 29.566676856320107,
+                        "zip": "443-742",
+                        "beta": 0.752,
+                        "city": "Suwon-si",
+                        "isin": "US7960508882",
+                        "image": "https://images.financialmodelingprep.com/symbol/SSU.VI.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "82 3 1200 1114",
+                        "price": 1060.0,
+                        "range": "810-1230",
+                        "isFund": false,
+                        "mktCap": 285590485160.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "SSU.VI",
+                        "volAvg": 0.72619,
+                        "address": "129, Samsung-ro",
+                        "changes": 25.0,
+                        "country": "KR",
+                        "dcfDiff": 1030.43332,
+                        "ipoDate": "2018-09-14",
+                        "lastDiv": 17.85735,
+                        "website": "https://www.samsung.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Vienna Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Samsung Electronics Co., Ltd.",
+                        "description": "Samsung Electronics Co., Ltd. engages in the consumer electronics, information technology and mobile communications, and device solutions businesses worldwide. It provides home appliances comprising of refrigerators, air dresser, washing machines, dryers, cooking appliances, dishwashers, vacuum cleaners, air conditioners, and air purifiers. The company also offers TVs, sound devices, smartphones, tablets, monitors, smart and LED signages, watches, and other accessories, as well as provides memory storage solutions. In addition, it provides medical equipment; software design, development, and supply; toll processing of semiconductors and display panels; general logistics agency, financing, marketing, consulting, and technology and cloud services; venture capital investment; enterprise automation solutions and connected services; installation and optimization services for network devices; and digital advertising platforms. The company serves retail, hospitality, finance, transportation, education, government, manufacturing, public safety, and healthcare industries. Samsung Electronics Co., Ltd. was founded in 1938 and is based in Suwon-si, South Korea.",
+                        "defaultImage": false,
+                        "exchangeShortName": "VIE",
+                        "fullTimeEmployees": 127172.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7132,
+        "code": "SONY",
+        "exchange": "US",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hiroki Totoki",
+                        "dcf": 28.4489336540404,
+                        "zip": "108-0075",
+                        "beta": 0.758,
+                        "city": "Tokyo",
+                        "isin": "US8356993076",
+                        "image": "https://images.financialmodelingprep.com/symbol/SONY.png",
+                        "isAdr": true,
+                        "isEtf": false,
+                        "phone": "81 3 6748 2111",
+                        "price": 27.52,
+                        "range": "17.42-29.16",
+                        "isFund": false,
+                        "mktCap": 165897080589.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "SONY",
+                        "volAvg": 4317772.0,
+                        "address": "1-7-1 Konan",
+                        "changes": -0.48,
+                        "country": "JP",
+                        "dcfDiff": -0.92893,
+                        "ipoDate": "1958-12-01",
+                        "lastDiv": 0.0630736,
+                        "website": "https://www.sony.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "New York Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Sony Group Corporation",
+                        "description": "Sony Group Corporation designs, develops, produces, and sells electronic equipment, instruments, and devices for the consumer, professional, and industrial markets in Japan, the United States, Europe, China, the Asia-Pacific, and internationally. The company distributes software titles and add-on content through digital networks; network services related to game, video, and music content; and home and portable game consoles, packaged software, and peripheral devices. It also develops, produces, markets, and distributes recorded music; publishes music; and produces and distributes animation titles, game applications, and various services for music and visual products. In addition, the company produces, acquires, and distributes live-action and animated motion pictures for theatrical release, as well as scripted and animated series, unscripted reality or light entertainment, daytime serials, game shows, television movies, and miniseries and other television programs; operates a visual effects and animation unit; manages a studio facility; and operates television and digital networks, and post-production facilities. Further, it researches, develops, designs, produces, markets, distributes, sells, and services televisions, and video and sound products; interchangeable lens, compact digital, and consumer and professional video cameras; projectors and medical equipment; mobile phones, tablets, accessories, and applications; and metal oxide semiconductor image sensors, charge-coupled devices, integration systems, and other semiconductors. Additionally, it offers Internet broadband network services; recording media, and storage media products; and life and non-life insurance, banking, and other services, as well as creates and distributes content for PCs and mobile phones. The company was formerly known as Sony Corporation and changed its name to Sony Group Corporation in April 2021. Sony Group Corporation was incorporated in 1946 and is headquartered in Tokyo, Japan.",
+                        "defaultImage": false,
+                        "exchangeShortName": "NYSE",
+                        "fullTimeEmployees": 113000.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7140,
+        "code": "BO",
+        "exchange": "CO",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Kristian Tear",
+                        "dcf": -2.2604709309246127,
+                        "zip": "7600",
+                        "beta": 1.611,
+                        "city": "Struer",
+                        "isin": "DK0010218429",
+                        "image": "https://images.financialmodelingprep.com/symbol/BO.CO.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "45 96 84 11 22",
+                        "price": 15.0,
+                        "range": "8.25-15.8",
+                        "isFund": false,
+                        "mktCap": 2165457255.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "BO.CO",
+                        "volAvg": 116167.0,
+                        "address": "Bang & Olufsen All\u00e9 1",
+                        "changes": -0.12,
+                        "country": "DK",
+                        "dcfDiff": 17.52047,
+                        "ipoDate": "2000-01-03",
+                        "lastDiv": 0.0,
+                        "website": "https://www.bang-olufsen.com",
+                        "currency": "DKK",
+                        "originalCurrency": "DKK",
+                        "exchange": "NASDAQ Copenhagen",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Bang & Olufsen a/s",
+                        "description": "Bang & Olufsen a/s designs, develops, and markets audio and video products in Denmark and internationally. It offers portable and home audio speakers, as well as speakers sets; over-ear and noise-cancellation headphones, and earphones; televisions; soundbars, and sound systems. The company sells its products through its stores and online. The company was founded in 1925 and is headquartered in Struer, Denmark.",
+                        "defaultImage": false,
+                        "exchangeShortName": "CPH",
+                        "fullTimeEmployees": 1027.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7142,
+        "code": "HTJ",
+        "exchange": "F",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Hsiueh-Hong Wang",
+                        "dcf": -4.202052887088175,
+                        "zip": "330",
+                        "beta": 0.747,
+                        "city": "Taoyuan City",
+                        "isin": "US40432G2075",
+                        "image": "https://images.financialmodelingprep.com/symbol/HTJ.F.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "886 3 375 3252",
+                        "price": 7.4,
+                        "range": "3.26-7.4",
+                        "isFund": false,
+                        "mktCap": 1545112600.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "HTJ.F",
+                        "volAvg": 129.0,
+                        "address": "No. 23, Xinghua Road",
+                        "changes": 0.2,
+                        "country": "TW",
+                        "dcfDiff": 11.60205,
+                        "ipoDate": "2010-12-23",
+                        "lastDiv": 0.0,
+                        "website": "https://www.htc.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Frankfurt Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "HTC Corporation",
+                        "description": "HTC Corporation, together with its subsidiaries, designs, manufactures, assembles, processes, and sells smart mobile and virtual reality devices in Taiwan and internationally. The company provides marketing, repair, and after sales services; and online/download media services, as well as human resources management services. In addition, it is involved in the general investing activities; design, research, and development of application software and graphics technology; design and management of cloud synchronization technology; and development and sale of digital education platform, as well as development of virtual reality contents. Further, the company provides app stores for virtual reality, where customers can explore, create, connect, and experience the content; and medical and healthcare, 5G connectivity, and blockchain technologies. It provides its products through online. The company has an agreement with Fantasy 360 Technologies Inc. HTC Corporation was incorporated in 1997 and is headquartered in Taoyuan, Taiwan.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": null,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7133,
+        "code": "3CP",
+        "exchange": "F",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Jun Lei",
+                        "dcf": 2.0071903402493865,
+                        "zip": null,
+                        "beta": 1.204,
+                        "city": "Beijing",
+                        "isin": "KYG9830T1067",
+                        "image": "https://images.financialmodelingprep.com/symbol/3CP.F.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "86 83 3942 6648",
+                        "price": 5.911,
+                        "range": "2.0755-7.398",
+                        "isFund": false,
+                        "mktCap": 148480109252.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "3CP.F",
+                        "volAvg": 95976.0,
+                        "address": "Xiaomi Campus",
+                        "changes": 0.036,
+                        "country": "CN",
+                        "dcfDiff": 3.89081,
+                        "ipoDate": "2018-11-06",
+                        "lastDiv": 0.0,
+                        "website": "https://www.mi.com",
+                        "currency": "EUR",
+                        "originalCurrency": "EUR",
+                        "exchange": "Frankfurt Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Xiaomi Corporation",
+                        "description": "Xiaomi Corporation, an investment holding company, provides hardware, software, and internet services in Mainland China, India, Europe, and internationally. It operates through Smartphones, IoT and Lifestyle Products, Internet Services, and Others segments. The Smartphones segment sells smartphones. The IoT and Lifestyle Products segment offers smart TVs, laptops, AI speakers, and smart routers; various IoT and other smart hardware products; and lifestyle products. The Internet Services segment provides advertising services and internet value-added services; and engages in the online game and fintech businesses. The Others segment offers hardware repair services for its products. The company also engages in the wholesale and retail of smartphones and ecosystem partners' products; development and sale of software, hardware, and electronic products; procurement and sale of smartphones, ecosystem partners' products, and spare parts; procurement of raw materials; and operation of retail stores. It is also involved in the research and development of computer software and information technology; property management and commercial factoring activities; e-commerce and market research businesses; sale of e-books; investment, asset management, project investment, property management, and investment consulting, as well as technology diffusion, transfer, and consulting activities; and provision of internet finance, consumer loan, virtual banking, software related, information technology advisory, electronic payment, and internet services. Xiaomi Corporation was incorporated in 2010 and is headquartered in Beijing, the People's Republic of China.",
+                        "defaultImage": false,
+                        "exchangeShortName": "XETRA",
+                        "fullTimeEmployees": 43688.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7134,
+        "code": "EMR",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Surendralal Lanca Karsanbhai",
+                        "dcf": 0.0,
+                        "zip": "63136",
+                        "beta": 1.311,
+                        "city": "Saint Louis",
+                        "isin": "US2910111044",
+                        "image": "https://images.financialmodelingprep.com/symbol/EMR.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "314 553 2000",
+                        "price": 67.0,
+                        "range": "64.57-64.57",
+                        "isFund": false,
+                        "mktCap": 52533293000.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "EMR.SW",
+                        "volAvg": 0.0,
+                        "address": "8000 West Florissant Avenue",
+                        "changes": 0.0,
+                        "country": "US",
+                        "dcfDiff": null,
+                        "ipoDate": "2014-11-03",
+                        "lastDiv": 1.49652,
+                        "website": "https://www.emerson.com",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Emerson Electric Co.",
+                        "description": "Emerson Electric Co., a technology and engineering company, provides various solutions for customers in industrial, commercial, and residential markets in the Americas, Asia, the Middle East, Africa, and Europe. The company operates through Automation Solutions, and Commercial & Residential Solutions segments. The Automation Solutions segment offers measurement and analytical instrumentation, industrial valves and equipment, and process control software and systems. It serves oil and gas, refining, chemicals, power generation, life sciences, food and beverage, automotive, pulp and paper, metals and mining, and municipal water supplies markets. The Commercial & Residential Solutions segment offers residential and commercial heating and air conditioning products, such as reciprocating and scroll compressors; system protector and flow control devices; standard, programmable, and Wi-Fi thermostats; monitoring equipment and electronic controls for gas and electric heating systems; gas valves for furnaces and water heaters; ignition systems for furnaces; sensors and thermistors for home appliances; and temperature sensors and controls. It also provides reciprocating, scroll, and screw compressors; precision flow controls; system diagnostics and controls; and environmental control systems. In addition, this segment offers air conditioning, refrigeration, and lighting control technologies, as well as facility design and product management, site commissioning, facility monitoring, and energy modeling services; tools for professionals and homeowners; and appliance solutions. Emerson Electric Co. was incorporated in 1890 and is headquartered in Saint Louis, Missouri.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 73000.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7137,
+        "code": "WIN",
+        "exchange": "SW",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Octavio Marquez",
+                        "dcf": 0.0,
+                        "zip": "44236-1605",
+                        "beta": 2.724974,
+                        "city": "Hudson",
+                        "isin": null,
+                        "image": "https://images.financialmodelingprep.com/symbol/WIN.SW.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "330 490 4000",
+                        "price": 66.4,
+                        "range": "8.6-66.4",
+                        "isFund": false,
+                        "mktCap": 8085926334.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "WIN.SW",
+                        "volAvg": 0.0,
+                        "address": "50 Executive Parkway",
+                        "changes": 0.0,
+                        "country": "US",
+                        "dcfDiff": null,
+                        "ipoDate": "2019-05-16",
+                        "lastDiv": 0.0,
+                        "website": "https://www.dieboldnixdorf.com",
+                        "currency": "CHF",
+                        "originalCurrency": "CHF",
+                        "exchange": "Swiss Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Diebold Nixdorf, Incorporated",
+                        "description": "Diebold Nixdorf, Incorporated provides connected commerce solutions to financial institutions and retailers in Western Europe, Eastern Europe, Asia, the Middle East, Africa, the United States, Canada, Mexico, and Latin America. It operates through Eurasia Banking, Americas Banking, and Retail segments. The company offers cash recyclers and dispensers, intelligent deposit terminals, teller automation tools, and kiosk technologies, as well as physical security solutions; and front-end applications for consumer connection points and back-end platforms that manage channel transactions, operations and integration, and facilitate omnichannel transactions, endpoint monitoring, remote asset management, customer marketing, merchandise management, and analytics. It also provides banking product-related services comprising proactive monitoring and rapid resolution of incidents through remote service capabilities or an on-site visit; first- and second-line maintenance, preventive maintenance, and on-demand services; managed and outsourcing services, such as business processes, solution management, upgrades, and transaction processing; and cash management services. In addition, the company offers DN Vynamic software suite to simplify and enhance the consumer experience; mobile point of sale and self-checkout terminals; printers, scales, and mobile scanners; and banknote and coin processing systems. Additionally, it provides retail customer's product-related services, such as on-demand and professional services; maintenance and availability services; implementation services; managed mobility services; monitoring and advanced analytics; and store life-cycle management services. The company was formerly known as Diebold, Incorporated and changed its name to Diebold Nixdorf, Incorporated in December 2016. Diebold Nixdorf, Incorporated was founded in 1859 and is headquartered in Hudson, Ohio.",
+                        "defaultImage": false,
+                        "exchangeShortName": "SIX",
+                        "fullTimeEmployees": 21000.0,
+                        "isActivelyTrading": false
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    },
+    {
+        "id": 7136,
+        "code": "VID",
+        "exchange": "L",
+        "fundamentals": {
+            "profile": {
+                "data": [
+                    {
+                        "ceo": "Marco Pezzana",
+                        "dcf": -47.701383808114365,
+                        "zip": "TW9 1EN",
+                        "beta": 0.585,
+                        "city": "Richmond",
+                        "isin": "GB0009296665",
+                        "image": "https://images.financialmodelingprep.com/symbol/VID.L.png",
+                        "isAdr": false,
+                        "isEtf": false,
+                        "phone": "44 20 8332 4600",
+                        "price": 50.6,
+                        "range": "28.3-341.5",
+                        "isFund": false,
+                        "mktCap": 52427437.0,
+                        "period": "Y",
+                        "sector": "Technology",
+                        "symbol": "VID.L",
+                        "volAvg": 252902.0,
+                        "address": "Bridge House",
+                        "changes": -0.4,
+                        "country": "GB",
+                        "dcfDiff": 97.90738,
+                        "ipoDate": "1988-07-01",
+                        "lastDiv": 0.0,
+                        "website": "https://www.videndum.com",
+                        "currency": "GBp",
+                        "originalCurrency": "GBp",
+                        "exchange": "London Stock Exchange",
+                        "industry": "Consumer Electronics",
+                        "companyName": "Videndum Plc",
+                        "description": "Videndum Plc designs, manufactures, and distributes products and services that enable end users to capture and share exceptional content for the broadcast, cinematic, video, photographic, and smartphone applications worldwide. It operates through three divisions: Imaging Solutions, Production Solutions, and Creative Solutions. The Imaging Solutions division offers equipment for photographic and video cameras, and smartphones; and solutions to professional and amateur photographers/videographers, independent content creators (ICCs), vloggers/influencers, gamers, enterprises, and professional sound crews comprising camera supports and heads, smartphone accessories, lighting supports, light-emitting diode (LED) lighting, lighting controls, motion controls, audio capture and noise reduction equipment, and camera bags and backgrounds. The Production Solutions division provides video heads, tripods, LED lighting, prompters, robotic camera systems, and mobile power solutions, as well as equipment rental and technical solutions for broadcasters, film and video production companies, ICCs, and enterprises. The Creative Solutions division offers wireless video transmission and lens control systems, monitors, camera accessories, live streaming and IP video devices, and software applications to ICCs, enterprises, gamers, broadcasters, and film and video production companies. The company was formerly known as The Vitec Group plc and changed its name to Videndum Plc in May 2022. Videndum Plc was founded in 1909 and is headquartered in Richmond, the United Kingdom.",
+                        "defaultImage": false,
+                        "exchangeShortName": "LSE",
+                        "fullTimeEmployees": 1500.0,
+                        "isActivelyTrading": true
+                    }
+                ],
+                "summarized_description": null
+            }
+        }
+    }
+]
